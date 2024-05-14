@@ -1,0 +1,1563 @@
+datatype,kind,id,latitude,longitude,city,type,status,country
+physicalStore,Zara,12319,22.501734,88.361626,KOLKATA,Mall,OPEN,India
+physicalStore,Zara,3466,-6.19369124,106.8221943,JAKARTA PUSAT,Mall,OPEN,Indonesia
+physicalStore,Zara,3732,-6.1956806,106.822,JAKARTA PUSAT,Mall,OPEN,Indonesia
+physicalStore,Zara,9141,-6.176196,106.79164,JAKARTA PUSAT,Mall,OPEN,Indonesia
+physicalStore,Zara,1389,-6.22303609,106.8426308,JAKARTA,Mall,OPEN,Indonesia
+physicalStore,Zara,3923,-6.22525608,106.7994032,JAKARTA PUSAT,Mall,OPEN,Indonesia
+physicalStore,Zara,12586,-6.22659148,106.7977766,JAKARTA PUSAT,Mall,OPEN,Indonesia
+physicalStore,Zara,3586,-6.16038205,106.907127,JAKARTA TIMUR,Mall,OPEN,Indonesia
+physicalStore,Zara,3333,-6.1875683,106.7396081,JAKARTA BARAT,Mall,OPEN,Indonesia
+physicalStore,Zara,3467,-6.26606344,106.7827557,JAKARTA SELATAN,Mall,OPEN,Indonesia
+physicalStore,Zara,9029,30.072693,31.346285,CAIRO,Mall,OPEN,Egypt
+physicalStore,Zara,13614,30.080805,31.364922,CAIRO,Mall,OPEN,Egypt
+physicalStore,Zara,6309,30.029015,31.408549999999998,CAIRO,Mall,OPEN,Egypt
+physicalStore,Zara,11720,29.972464000000002,31.016699,CAIRO,Mall,OPEN,Egypt
+physicalStore,Zara,9203,30.008184,30.975029,CAIRO,Mall,OPEN,Egypt
+physicalStore,Zara,7008,-34.60023523,-58.37537696,BUENOS AIRES,Street,OPEN,Argentina
+physicalStore,Zara,7046,-34.5878185,-58.38326586,BUENOS AIRES,Mall,OPEN,Argentina
+physicalStore,Zara,7004,-34.59558998,-58.39518929,BUENOS AIRES,Street,OPEN,Argentina
+physicalStore,Zara,7005,-34.60371506,-58.4105305,BUENOS AIRES,Mall,OPEN,Argentina
+physicalStore,Zara,7002,-34.58811683,-58.41064539,BUENOS AIRES,Mall,OPEN,Argentina
+physicalStore,Zara,7036,-34.57483613,-58.40403003,BUENOS AIRES,Mall,OPEN,Argentina
+physicalStore,Zara,7000,-34.67757781,-58.36806292,AVELLANEDA,Mall,OPEN,Argentina
+physicalStore,Zara,7047,-34.54514822,-58.48787,BUENOS AIRES,Mall,OPEN,Argentina
+physicalStore,Zara,7003,-34.50718048,-58.52520756,MARTINEZ,Mall,OPEN,Argentina
+physicalStore,Zara,9185,19.08659,72.888904,MUMBAI,Mall,OPEN,India
+physicalStore,Zara,11724,19.174005,72.861132,MUMBAI,Mall,OPEN,India
+physicalStore,Zara,9072,18.993949999999998,72.82482,MUMBAI,Mall,OPEN,India
+physicalStore,Zara,9216,19.185306,72.834088,MUMBAI,Mall,OPEN,India
+physicalStore,Zara,11600,18.941497,72.833842,MUMBAI,Street,OPEN,India
+physicalStore,Zara,1480,19.208959,72.971228,THANE,Mall,OPEN,India
+physicalStore,Zara,9076,28.528263000000003,77.21839,NEW DELHI,Mall,OPEN,India
+physicalStore,Zara,1242,28.567581,77.32123,NOIDA,Mall,OPEN,India
+physicalStore,Zara,9093,28.542748,77.15561,NEW DELHI,Mall,OPEN,India
+physicalStore,Zara,9183,28.642386000000002,77.106383,NEW DELHI,Mall,OPEN,India
+physicalStore,Zara,1479,28.50545,77.09602100000001,GURGAON,Mall,OPEN,India
+physicalStore,Zara,7050,-23.570429,-46.643538,SAO PAULO,Mall,OPEN,Brazil
+physicalStore,Zara,16279,-23.541975,-46.6574,SAO PAULO,Mall,OPEN,Brazil
+physicalStore,Zara,6288,-23.515259,-46.617886999999996,SAO PAULO,Mall,OPEN,Brazil
+physicalStore,Zara,12641,-23.578513,-46.594765,SAO PAULO,Mall,OPEN,Brazil
+physicalStore,Zara,7049,-23.526425,-46.680862,SAO PAULO,Mall,OPEN,Brazil
+physicalStore,Zara,7030,-23.576931000000002,-46.68814,SAO PAULO,Mall,OPEN,Brazil
+physicalStore,Zara,7042,-23.572618,-46.695674,SAO PAULO,Mall,OPEN,Brazil
+physicalStore,Zara,7016,-23.561225,-46.56086666,SAO PAULO,Mall,OPEN,Brazil
+physicalStore,Zara,7077,-23.591146000000002,-46.68934,SAO PAULO,Mall,OPEN,Brazil
+physicalStore,Zara,7027,-23.610364,-46.666445,SAO PAULO,Mall,OPEN,Brazil
+physicalStore,Zara,7044,-23.599098,-46.697581,SAO PAULO,Mall,OPEN,Brazil
+physicalStore,Zara,7037,-23.551044,-46.722038,SAO PAULO,Mall,OPEN,Brazil
+physicalStore,Zara,7061,-23.625728,-46.580295,SAO CAETANO DO SUL,Mall,OPEN,Brazil
+physicalStore,Zara,7015,-23.623341,-46.698816,SAO PAULO,Mall,OPEN,Brazil
+physicalStore,Zara,7060,-23.504457,-46.848060000000004,BARUERI,Mall,OPEN,Brazil
+physicalStore,Zara,12231,13.726997,100.510334,BANGKOK,Mall,OPEN,Thailand
+physicalStore,Zara,10935,13.777736,100.475528,BANGKOK,Mall,OPEN,Thailand
+physicalStore,Zara,3468,13.746138,100.5346,BANGKOK,Mall,OPEN,Thailand
+physicalStore,Zara,3616,13.746659000000001,100.53893,BANGKOK,Mall,OPEN,Thailand
+physicalStore,Zara,4848,13.743887,100.547079,BANGKOK,Mall,OPEN,Thailand
+physicalStore,Zara,6358,13.730053999999999,100.568634,BANGKOK,Mall,OPEN,Thailand
+physicalStore,Zara,1261,13.816577,100.561466,BANGKOK,Mall,OPEN,Thailand
+physicalStore,Zara,1285,13.647518999999999,100.680127,BANGKOK,Mall,OPEN,Thailand
+physicalStore,Zara,11733,10.7780127,106.7017896,HO CHI MINH,Mall,OPEN,Vietnam
+physicalStore,Zara,9217,13.01112,77.555108,BANGALORE,Mall,OPEN,India
+physicalStore,Zara,16156,12.8883718,77.56276614,BANGALORE,Mall,OPEN,India
+physicalStore,Zara,9218,12.997052,77.696235,BANGALORE,Mall,OPEN,India
+physicalStore,Zara,3358,35.691121,139.702068,TOKYO,Street,OPEN,Japan
+physicalStore,Zara,3169,35.668724,139.704401,TOKYO,Street,OPEN,Japan
+physicalStore,Zara,3048,35.660522,139.699037,TOKYO,Street,OPEN,Japan
+physicalStore,Zara,3992,35.660818,139.700974,TOKYO,Street,OPEN,Japan
+physicalStore,Zara,12437,35.661303000000004,139.72998,TOKYO,Mall,OPEN,Japan
+physicalStore,Zara,983,35.730349000000004,139.710571,TOKYO,Mall,OPEN,Japan
+physicalStore,Zara,3294,35.731377,139.713392,TOKYO,Street,OPEN,Japan
+physicalStore,Zara,3244,35.669073,139.763206,TOKYO,Street,OPEN,Japan
+physicalStore,Zara,9049,35.655152,139.792796,TOKYO,Mall,OPEN,Japan
+physicalStore,Zara,12356,35.704671,139.576883,MUSASHINO,Street,OPEN,Japan
+physicalStore,Zara,1370,35.62364,139.775362,TOKYO,Mall,OPEN,Japan
+physicalStore,Zara,1366,35.710683,139.81113,TOKYO,Mall,OPEN,Japan
+physicalStore,Zara,9137,35.696419,139.813921,TOKYO,Airport,OPEN,Japan
+physicalStore,Zara,9242,35.574002,139.66095,KAWASAKI,Mall,OPEN,Japan
+physicalStore,Zara,12422,35.533028,139.69514,KAWASAKI,Mall,OPEN,Japan
+physicalStore,Zara,1257,35.858735,139.659158,SAITAMA,Mall,OPEN,Japan
+physicalStore,Zara,3630,35.517915,139.566311,YOKOHAMA,Mall,OPEN,Japan
+physicalStore,Zara,6381,35.85993,139.54875,FUJIMI,Mall,OPEN,Japan
+physicalStore,Zara,3927,35.877854,139.82460700000001,KOSHIGAYA,Mall,OPEN,Japan
+physicalStore,Zara,3955,35.85892,139.86638,MISATO,Mall,OPEN,Japan
+physicalStore,Zara,2057,35.714004,139.417942,TACHIKAWA,Mall,OPEN,Japan
+physicalStore,Zara,542,35.697377,139.414079,TACHIKAWA,Airport,OPEN,Japan
+physicalStore,Zara,9031,35.464698,139.624751,YOKOHAMA,Mall,OPEN,Japan
+physicalStore,Zara,3098,35.45646,139.63278,YOKOHAMA,Mall,OPEN,Japan
+physicalStore,Zara,3871,35.685692,139.990175,FUNABASHI,Mall,OPEN,Japan
+physicalStore,Zara,353,19.43369444,-99.1371944,CIUDAD DE MEXICO,Street,OPEN,Mexico
+physicalStore,Zara,1362,19.4494444,-99.15166669999999,CIUDAD DE MEXICO,Mall,OPEN,Mexico
+physicalStore,Zara,3655,19.42895278,-99.16165278,CIUDAD DE MEXICO,Mall,OPEN,Mexico
+physicalStore,Zara,3507,19.403086000000002,-99.15355,CIUDAD DE MEXICO,Mall,OPEN,Mexico
+physicalStore,Zara,3610,19.4864728,-99.1311578,CIUDAD DE MEXICO,Mall,OPEN,Mexico
+physicalStore,Zara,1283,19.486732699999997,-99.1521395,CIUDAD DE MEXICO,Mall,OPEN,Mexico
+physicalStore,Zara,398,19.431471000000002,-99.19524799999999,CIUDAD DE MEXICO,Street,OPEN,Mexico
+physicalStore,Zara,3734,19.3825382,-99.0831302,CIUDAD DE MEXICO,Mall,OPEN,Mexico
+physicalStore,Zara,3424,19.438718,-99.201386,CIUDAD DE MEXICO,Mall,OPEN,Mexico
+physicalStore,Zara,12655,19.4409399,-99.2024147,CIUDAD DE MEXICO,Street,PROVISIONAL,Mexico
+physicalStore,Zara,9328,19.454298,-99.218939,NAUCALPAN,Mall,OPEN,Mexico
+physicalStore,Zara,1266,19.346498,-99.179875,CIUDAD DE MEXICO,Mall,OPEN,Mexico
+physicalStore,Zara,3135,19.4033863,-99.242446,CIUDAD DE MEXICO,Mall,OPEN,Mexico
+physicalStore,Zara,318,19.5104422,-99.2342177,NAUCALPAN,Mall,OPEN,Mexico
+physicalStore,Zara,9117,19.2978293,-99.1378993,CIUDAD DE MEXICO,Mall,OPEN,Mexico
+physicalStore,Zara,324,19.3041755,-99.1890147,CIUDAD DE MEXICO,Mall,OPEN,Mexico
+physicalStore,Zara,12587,19.3136111,-99.21916666999999,CIUDAD DE MEXICO,Mall,OPEN,Mexico
+physicalStore,Zara,3835,19.39829,-99.28241,HUIXQUILUCAN,Mall,OPEN,Mexico
+physicalStore,Zara,333,19.362164999999997,-99.271291,CIUDAD DE MEXICO,Mall,OPEN,Mexico
+physicalStore,Zara,9257,19.5493098,-99.2737745,ATIZAPAN DE ZARAGOZA,Mall,OPEN,Mexico
+physicalStore,Zara,3925,41.01406111,28.94545555,ISTANBUL,Mall,OPEN,Turkey
+physicalStore,Zara,16004,41.02789,28.984692000000003,ISTANBUL,Mall,OPEN,Turkey
+physicalStore,Zara,9280,41.033236,28.976984,ISTANBUL,Street,OPEN,Turkey
+physicalStore,Zara,3425,41.05069,28.99273,ISTANBUL,Street,OPEN,Turkey
+physicalStore,Zara,9235,40.9970703,28.8852688,ISTANBUL,Mall,OPEN,Turkey
+physicalStore,Zara,12692,41.0635953,28.992115599999998,ISTANBUL,Mall,OPEN,Turkey
+physicalStore,Zara,9052,41.046623,28.896683,ISTANBUL,Mall,OPEN,Turkey
+physicalStore,Zara,12638,41.067192,29.016316,ISTANBUL,Mall,OPEN,Turkey
+physicalStore,Zara,6486,41.00226264,29.0546045,ISTANBUL,Mall,OPEN,Turkey
+physicalStore,Zara,3800,40.97767257,28.8705024,ISTANBUL,Mall,OPEN,Turkey
+physicalStore,Zara,14928,41.0743,29.020200000000003,ISTANBUL,Street,PROVISIONAL,Turkey
+physicalStore,Zara,3195,41.076828,29.0269832,ISTANBUL,Mall,OPEN,Turkey
+physicalStore,Zara,11767,41.002419,29.0710313,ISTANBUL,Mall,OPEN,Turkey
+physicalStore,Zara,11942,41.107045,28.987686,ISTANBUL,Mall,OPEN,Turkey
+physicalStore,Zara,3231,40.9589504,29.082668599999998,ISTANBUL,Street,OPEN,Turkey
+physicalStore,Zara,3837,40.98641214,29.099931769999998,ISTANBUL,Mall,OPEN,Turkey
+physicalStore,Zara,3740,41.109947,29.032595,ISTANBUL,Mall,OPEN,Turkey
+physicalStore,Zara,9259,41.06196,28.807417,ISTANBUL,Mall,OPEN,Turkey
+physicalStore,Zara,1414,41.026341,29.126558,ISTANBUL,Mall,OPEN,Turkey
+physicalStore,Zara,11712,40.953106,29.121724999999998,ISTANBUL,Mall,OPEN,Turkey
+physicalStore,Zara,11943,40.8846961,29.2065173,ISTANBUL,Mall,OPEN,Turkey
+physicalStore,Zara,9272,41.0559019,28.66787496,ISTANBUL,Mall,OPEN,Turkey
+physicalStore,Zara,1236,41.009714,28.658738,ISTANBUL,Mall,OPEN,Turkey
+physicalStore,Zara,3915,14.5535993,121.0224862,MAKATI CITY,Mall,OPEN,Philippines
+physicalStore,Zara,12894,14.535318,120.9824,PASAY CITY,Mall,OPEN,Philippines
+physicalStore,Zara,3564,14.5520008,121.0252401,MAKATI CITY,Mall,OPEN,Philippines
+physicalStore,Zara,3524,14.565028,121.037019,MAKATI CITY,Mall,OPEN,Philippines
+physicalStore,Zara,3772,14.654702499999999,121.031987,QUEZON CITY,Mall,OPEN,Philippines
+physicalStore,Zara,3634,14.580898999999999,121.055043,MANDALUYONG,Mall,OPEN,Philippines
+physicalStore,Zara,902,14.585149999999999,121.0591296,MANDALUYONG,Mall,OPEN,Philippines
+physicalStore,Zara,12632,14.5519874,121.047594,TAGUIG,Mall,OPEN,Philippines
+physicalStore,Zara,3994,37.563788,126.982432,SEOUL,Mall,OPEN,South Korea
+physicalStore,Zara,9148,37.554542,126.970673,SEOUL,Mall,OPEN,South Korea
+physicalStore,Zara,13631,37.529015,126.96512,SEOUL,Mall,OPEN,South Korea
+physicalStore,Zara,9230,37.525551,126.925567,SEOUL,Mall,OPEN,South Korea
+physicalStore,Zara,9115,37.502168,127.025259,SEOUL,Street,OPEN,South Korea
+physicalStore,Zara,2055,37.511083,127.060687,SEOUL,Mall,OPEN,South Korea
+physicalStore,Zara,3989,37.516819,126.903288,SEOUL,Mall,OPEN,South Korea
+physicalStore,Zara,9256,37.508858000000004,126.888447,SEOUL,Mall,OPEN,South Korea
+physicalStore,Zara,1254,37.514363,127.104658,SEOUL,Mall,OPEN,South Korea
+physicalStore,Zara,9054,37.654713,127.061231,SEOUL,Mall,OPEN,South Korea
+physicalStore,Zara,12211,37.647313,126.896263,GOYANG,Mall,OPEN,South Korea
+physicalStore,Zara,1291,37.562903,126.802559,SEOUL,Mall,OPEN,South Korea
+physicalStore,Zara,11634,37.544418,127.22493,HANAM,Mall,OPEN,South Korea
+physicalStore,Zara,3943,37.385494,127.124281,SEONGNAM,Street,OPEN,South Korea
+physicalStore,Zara,1375,37.663991,126.753469,GOYANG,Mall,OPEN,South Korea
+physicalStore,Zara,12925,37.313667,127.0811,YONGIN,Mall,OPEN,South Korea
+physicalStore,Zara,14973,40.7342158,-73.8709219,NEW YORK,Mall,OPEN,United States
+physicalStore,Zara,3862,40.7225111,-73.9995769,NEW YORK,Street,OPEN,United States
+physicalStore,Zara,3904,40.7112633,-74.008867,NEW YORK,Street,OPEN,United States
+physicalStore,Zara,3037,40.7380433,-73.9920227,NEW YORK,Street,OPEN,United States
+physicalStore,Zara,3074,40.7494914,-73.9867944,NEW YORK,Street,OPEN,United States
+physicalStore,Zara,3818,40.7537551,-73.9810099,NEW YORK,Street,OPEN,United States
+physicalStore,Zara,11855,40.6095411,-73.921249,NEW YORK,Mall,OPEN,United States
+physicalStore,Zara,13342,40.763523,-73.966708,NEW YORK,Street,OPEN,United States
+physicalStore,Zara,1260,40.7598859,-73.9762248,NEW YORK,Street,OPEN,United States
+physicalStore,Zara,11818,40.7532,-74.00075,NEW YORK,Mall,OPEN,United States
+physicalStore,Zara,3946,40.7743313,-73.9822199,NEW YORK,Street,OPEN,United States
+physicalStore,Zara,10815,40.72709,-74.03771,JERSEY CITY,Mall,OPEN,United States
+physicalStore,Zara,6476,40.8093889,-74.0674167,EAST RUTHERFORD,Mall,OPEN,United States
+physicalStore,Zara,12213,40.5818414,-74.1668656,STATEN ISLAND,Mall,OPEN,United States
+physicalStore,Zara,351,40.736792,-73.611897,GARDEN CITY,Mall,OPEN,United States
+physicalStore,Zara,6464,40.92829,-73.85432,YONKERS,Mall,OPEN,United States
+physicalStore,Zara,10988,40.917988,-74.076282,PARAMUS,Mall,OPEN,United States
+physicalStore,Zara,3526,34.706001,135.499685,OSAKA,Street,OPEN,Japan
+physicalStore,Zara,3551,34.670135,135.501605,OSAKA,Street,OPEN,Japan
+physicalStore,Zara,9131,34.645252,135.51361,OSAKA,Mall,OPEN,Japan
+physicalStore,Zara,9138,34.717228,135.36467,NISHINOMIYA,Mall,OPEN,Japan
+physicalStore,Zara,6469,34.80403,135.53429,SUITA,Mall,OPEN,Japan
+physicalStore,Zara,10276,34.74648,135.629248,SHIJONAWATE,Mall,OPEN,Japan
+physicalStore,Zara,4836,34.861655,135.677934,HIRAKATA,Mall,OPEN,Japan
+physicalStore,Zara,3767,34.691212,135.193487,KOBE,Street,OPEN,Japan
+physicalStore,Zara,9297,34.4376745,135.45006139,IZUMI,Mall,OPEN,Japan
+physicalStore,Zara,14823,34.67996,135.1821,KOBE,Mall,OPEN,Japan
+physicalStore,Zara,7018,-22.956936,-43.176837,RIO DE JANEIRO,Mall,OPEN,Brazil
+physicalStore,Zara,7038,-22.982402,-43.216807,RIO DE JANEIRO,Mall,OPEN,Brazil
+physicalStore,Zara,7017,-22.99821,-43.3561,RIO DE JANEIRO,Mall,OPEN,Brazil
+physicalStore,Zara,9184,12.991003,80.216689,CHENNAI,Mall,OPEN,India
+physicalStore,Zara,11857,34.07561,-118.37711,LOS ANGELES,Mall,OPEN,United States
+physicalStore,Zara,3612,34.0581377,-118.4195545,LOS ANGELES,Mall,OPEN,United States
+physicalStore,Zara,3985,34.0725012,-118.359696,LOS ANGELES,Mall,OPEN,United States
+physicalStore,Zara,3723,34.1012174,-118.3404209,LOS ANGELES,Street,OPEN,United States
+physicalStore,Zara,3322,34.01611944,-118.49679722,SANTA MONICA,Street,OPEN,United States
+physicalStore,Zara,3844,34.14537,-118.25933,GLENDALE,Mall,OPEN,United States
+physicalStore,Zara,6493,34.04861,-118.2611,LOS ANGELES,Mall,OPEN,United States
+physicalStore,Zara,3614,34.18925,-118.60294999999999,CANOGA PARK,Mall,OPEN,United States
+physicalStore,Zara,6362,17.4841309,78.389184,HYDERABAD,Mall,OPEN,India
+physicalStore,Zara,7081,-12.090043,-77.052408,LIMA,Mall,OPEN,Peru
+physicalStore,Zara,989,-12.093107,-77.02508,LIMA,Mall,OPEN,Peru
+physicalStore,Zara,11678,-11.993643,-77.061841,LIMA,Mall,OPEN,Peru
+physicalStore,Zara,6484,-11.980421,-77.086186,LIMA,Street,OPEN,Peru
+physicalStore,Zara,3414,48.858164,2.349571,PARIS,Street,OPEN,France
+physicalStore,Zara,3022,48.861454,2.34648,PARIS,Mall,OPEN,France
+physicalStore,Zara,3237,48.859871999999996,2.343996,PARIS,Street,OPEN,France
+physicalStore,Zara,304,48.87125833,2.33243055,PARIS,Street,OPEN,France
+physicalStore,Zara,12672,48.8735514,2.32974287,PARIS,Street,OPEN,France
+physicalStore,Zara,3040,48.850291999999996,2.32429,PARIS,Street,OPEN,France
+physicalStore,Zara,3064,48.845686,2.325603,PARIS,Street,OPEN,France
+physicalStore,Zara,3042,48.8326719,2.3309258,PARIS,Street,OPEN,France
+physicalStore,Zara,3054,48.830048,2.356092,PARIS,Mall,OPEN,France
+physicalStore,Zara,14914,48.87124,2.30477,PARIS,Street,OPEN,France
+physicalStore,Zara,9192,48.87137,2.302816,PARIS,Street,OPEN,France
+physicalStore,Zara,6402,48.84876,2.28194,PARIS,Mall,OPEN,France
+physicalStore,Zara,326,48.857730000000004,2.279242,PARIS,Street,OPEN,France
+physicalStore,Zara,1361,48.89233,2.2968,LEVALLOIS-PERRET,Mall,OPEN,France
+physicalStore,Zara,3492,48.811780999999996,2.329343,ARCUEIL,Mall,OPEN,France
+physicalStore,Zara,1278,48.92579,2.32961,VILLENEUVE LA GARENNE,Mall,OPEN,France
+physicalStore,Zara,3096,48.83704,2.23992,BOULOGNE BILLANCOURT,Mall,OPEN,France
+physicalStore,Zara,12827,48.88999,2.240957,PUTEAUX,Mall,OPEN,France
+physicalStore,Zara,3003,48.88296,2.4789593,ROSNY SOUS BOIS,Mall,OPEN,France
+physicalStore,Zara,328,48.75689,2.370697,THIAIS,Mall,OPEN,France
+physicalStore,Zara,317,48.781501,2.455732,CRETEIL,Mall,OPEN,France
+physicalStore,Zara,329,48.779606,2.207345,VELIZY,Mall,OPEN,France
+physicalStore,Zara,3396,48.957195999999996,2.475514,AULNAY SOUS BOIS,Mall,OPEN,France
+physicalStore,Zara,13644,48.840153,2.547025,NOISY LE GRAND,Mall,OPEN,France
+physicalStore,Zara,6436,48.991194,2.522006,ROISSY-EN-FRANCE,Mall,OPEN,France
+physicalStore,Zara,12491,48.628723,2.427732,EVRY,Mall,OPEN,France
+physicalStore,Zara,13639,49.038325,2.079773,CERGY PONTOISE,Mall,OPEN,France
+physicalStore,Zara,12492,48.82623,1.96137,PLAISIR,Mall,OPEN,France
+physicalStore,Zara,3047,51.51081944,-0.13811944,LONDON,Street,OPEN,United Kingdom
+physicalStore,Zara,3229,51.51371666,-0.12344722,LONDON,Street,OPEN,United Kingdom
+physicalStore,Zara,1377,51.516172,-0.132896,LONDON,Street,OPEN,United Kingdom
+physicalStore,Zara,3436,51.51552222,-0.14014166,LONDON,Street,OPEN,United Kingdom
+physicalStore,Zara,9722,51.514373,-0.146763,LONDON,Street,PROVISIONAL,United Kingdom
+physicalStore,Zara,3219,51.51426944,-0.14707222,LONDON,Street,OPEN,United Kingdom
+physicalStore,Zara,3471,51.49689166,-0.139625,LONDON,Street,OPEN,United Kingdom
+physicalStore,Zara,1247,51.513817,-0.15395,LONDON,Street,OPEN,United Kingdom
+physicalStore,Zara,13896,51.514004,-0.095389,LONDON,Mall,OPEN,United Kingdom
+physicalStore,Zara,3298,51.50021388,-0.16273611,LONDON,Street,OPEN,United Kingdom
+physicalStore,Zara,3532,51.49158611,-0.15904722,LONDON,Street,OPEN,United Kingdom
+physicalStore,Zara,14512,51.480578,-0.144172,LONDON,Street,OPEN,United Kingdom
+physicalStore,Zara,3091,51.50250277,-0.19064722,LONDON,Street,OPEN,United Kingdom
+physicalStore,Zara,3784,51.50764,-0.221947,LONDON,Mall,OPEN,United Kingdom
+physicalStore,Zara,3712,51.5065,-0.021458,LONDON,Mall,OPEN,United Kingdom
+physicalStore,Zara,9241,51.54323,-0.00678,STRATFORD,Mall,OPEN,United Kingdom
+physicalStore,Zara,3210,51.5766136,-0.227836,LONDON,Mall,OPEN,United Kingdom
+physicalStore,Zara,3250,51.37525833,-0.10235833,CROYDON,Mall,OPEN,United Kingdom
+physicalStore,Zara,3211,51.405365,0.0167889,BROMLEY,Mall,OPEN,United Kingdom
+physicalStore,Zara,3500,51.41097,-0.30445,KINGSTON UPON THAMES,Mall,OPEN,United Kingdom
+physicalStore,Zara,14689,51.65617,-0.39605,WATFORD,Mall,OPEN,United Kingdom
+physicalStore,Zara,12495,51.487989999999996,0.28393,GRAYS,Mall,OPEN,United Kingdom
+physicalStore,Zara,3057,51.43968,0.27077,GREENHITHE,Mall,OPEN,United Kingdom
+physicalStore,Zara,3559,31.224203,121.477714,SHANGHAI,Mall,OPEN,Mainland China
+physicalStore,Zara,3962,31.235824,121.479068,SHANGHAI,Street,OPEN,Mainland China
+physicalStore,Zara,13929,31.243014,121.472214,SHANGHAI,Mall,OPEN,Mainland China
+physicalStore,Zara,14808,31.264878,121.499525,SHANGHAI,Mall,OPEN,Mainland China
+physicalStore,Zara,12842,31.2297788,121.5248727,SHANGHAI,Mall,OPEN,Mainland China
+physicalStore,Zara,12438,31.2297788,121.5248727,SHANGHAI,Mall,OPEN,Mainland China
+physicalStore,Zara,11588,31.22128,121.41165,SHANGHAI,Mall,OPEN,Mainland China
+physicalStore,Zara,1483,31.20883,121.40356,SHANGHAI,Mall,OPEN,Mainland China
+physicalStore,Zara,9190,31.30389,121.50928,SHANGHAI,Mall,OPEN,Mainland China
+physicalStore,Zara,12025,31.17228,121.36322,SHANGHAI,Mall,OPEN,Mainland China
+physicalStore,Zara,11639,31.155066,121.350821,SHANGHAI,Mall,OPEN,Mainland China
+physicalStore,Zara,13723,31.30647,121.3005,SHANGHAI,Mall,OPEN,Mainland China
+physicalStore,Zara,13534,39.913056,116.40472199999999,BEIJING,Street,OPEN,Mainland China
+physicalStore,Zara,3854,39.9088889,116.366944,BEIJING,Mall,OPEN,Mainland China
+physicalStore,Zara,3569,39.914722,116.445,BEIJING,Mall,OPEN,Mainland China
+physicalStore,Zara,3679,39.947778,116.46917,BEIJING,Mall,OPEN,Mainland China
+physicalStore,Zara,13893,39.8647,116.3289,BEIJING,Mall,OPEN,Mainland China
+physicalStore,Zara,1262,39.9230556,116.5125,BEIJING,Mall,OPEN,Mainland China
+physicalStore,Zara,1467,39.78833333,116.32111111,BEIJING,Mall,OPEN,Mainland China
+physicalStore,Zara,1402,39.905,116.219444,BEIJING,Mall,OPEN,Mainland China
+physicalStore,Zara,9132,39.924782,116.599561,BEIJING,Mall,OPEN,Mainland China
+physicalStore,Zara,6284,39.9044444,116.636389,BEIJING,Mall,OPEN,Mainland China
+physicalStore,Zara,3957,22.5392,114.05462,SHENZHEN,Mall,OPEN,Mainland China
+physicalStore,Zara,11899,22.5591,114.06443,SHENZHEN,Mall,OPEN,Mainland China
+physicalStore,Zara,3924,22.54118,114.11438,SHENZHEN,Mall,OPEN,Mainland China
+physicalStore,Zara,12146,22.54118,114.11438,SHENZHEN,Mall,OPEN,Mainland China
+physicalStore,Zara,12027,22.544444,113.950833,SHENZHEN,Mall,OPEN,Mainland China
+physicalStore,Zara,14612,22.6483,114.02418,SHENZHEN,Mall,OPEN,Mainland China
+physicalStore,Zara,1399,22.520556,113.931111,SHENZHEN,Mall,OPEN,Mainland China
+physicalStore,Zara,1484,22.43,114.1416,SHENZHEN,Mall,OPEN,Mainland China
+physicalStore,Zara,11902,22.55568,113.88392,SHENZHEN,Mall,OPEN,Mainland China
+physicalStore,Zara,4835,35.166925,136.906451,NAGOYA,Street,OPEN,Japan
+physicalStore,Zara,3000,35.187067,136.944332,NAGOYA,Mall,OPEN,Japan
+physicalStore,Zara,3965,35.224868,136.883458,NAGOYA,Mall,OPEN,Japan
+physicalStore,Zara,1255,34.978997,136.974235,CHITA,Mall,OPEN,Japan
+physicalStore,Zara,3751,3.1500945,101.71273,KUALA LUMPUR,Mall,OPEN,Malaysia
+physicalStore,Zara,3272,3.15806666,101.712633,KUALA LUMPUR,Mall,OPEN,Malaysia
+physicalStore,Zara,10866,3.133879,101.72288,KUALA LUMPUR,Mall,OPEN,Malaysia
+physicalStore,Zara,3715,3.130703,101.671364,KUALA LUMPUR,Mall,OPEN,Malaysia
+physicalStore,Zara,3271,3.117421,101.676613,KUALA LUMPUR,Mall,OPEN,Malaysia
+physicalStore,Zara,3324,3.15095,101.614609,PETALING JAYA,Mall,OPEN,Malaysia
+physicalStore,Zara,1387,3.073281,101.60755,PETALING JAYA,Mall,OPEN,Malaysia
+physicalStore,Zara,1388,3.107863,101.460543,SHAH ALAM,Mall,OPEN,Malaysia
+physicalStore,Zara,7064,-26.180201,28.116680000000002,JOHANNESBURG,Mall,OPEN,South Africa
+physicalStore,Zara,7067,-26.107894,28.053718,JOHANNESBURG,Mall,OPEN,South Africa
+physicalStore,Zara,3964,-26.014536,28.106528,JOHANNESBURG,Mall,OPEN,South Africa
+physicalStore,Zara,3764,23.13531,113.31911,GUANGZHOU,Mall,OPEN,Mainland China
+physicalStore,Zara,9301,23.0531,113.1514,GUANGZHOU,Mall,OPEN,Mainland China
+physicalStore,Zara,6311,23.00967,113.34414,GUANGZHOU,Mall,OPEN,Mainland China
+physicalStore,Zara,9125,30.655044,104.0833,CHENGDU,Mall,OPEN,Mainland China
+physicalStore,Zara,14611,30.63567,104.1119673,CHENGDU,Mall,OPEN,Mainland China
+physicalStore,Zara,9696,30.628611,104.008889,CHENGDU,Mall,OPEN,Mainland China
+physicalStore,Zara,10244,30.54254,104.05875,CHENGDU,Mall,OPEN,Mainland China
+physicalStore,Zara,3969,29.538358000000002,106.510329,CHONGQING,Mall,OPEN,Mainland China
+physicalStore,Zara,12775,34.222462,108.967921,XI'AN,Mall,OPEN,Mainland China
+physicalStore,Zara,10805,34.3394444,108.941111,XI'AN,Mall,OPEN,Mainland China
+physicalStore,Zara,3870,39.1183333,117.190556,TIANJIN,Mall,OPEN,Mainland China
+physicalStore,Zara,1369,39.13555556,117.173611,TIANJIN,Mall,OPEN,Mainland China
+physicalStore,Zara,9220,30.582085,114.289247,WUHAN,Mall,OPEN,Mainland China
+physicalStore,Zara,14859,30.55806,114.33813,WUHAN,Mall,OPEN,Mainland China
+physicalStore,Zara,3987,41.88429,-87.62811,CHICAGO,Mall,OPEN,United States
+physicalStore,Zara,3697,41.8953,-87.6249,CHICAGO,Street,OPEN,United States
+physicalStore,Zara,4927,41.849386,-87.953372,OAK BROOK,Mall,OPEN,United States
+physicalStore,Zara,3892,42.06133,-87.7487291,SKOKIE,Mall,OPEN,United States
+physicalStore,Zara,12273,30.30858,120.13869,HANGZHOU,Mall,OPEN,Mainland China
+physicalStore,Zara,11806,30.254722,120.209444,HANGZHOU,Mall,OPEN,Mainland China
+physicalStore,Zara,12026,30.2084,120.212,HANGZHOU,Mall,OPEN,Mainland China
+physicalStore,Zara,6430,30.25045,120.04714,HANGZHOU,Mall,OPEN,Mainland China
+physicalStore,Zara,10275,30.310544,120.327052,HANGZHOU,Mall,OPEN,Mainland China
+physicalStore,Zara,9186,18.562272,73.916696,PUNE,Mall,OPEN,India
+physicalStore,Zara,11725,18.562424,73.91674,PUNE,Mall,OPEN,India
+physicalStore,Zara,12272,21.011067699999998,105.8494833,HA NOI,Mall,OPEN,Vietnam
+physicalStore,Zara,16315,21.0763015,105.8117286,HA NOI,Mall,OPEN,Vietnam
+physicalStore,Zara,16155,23.05742,72.52082,AHMEDABAD,Mall,OPEN,India
+physicalStore,Zara,1270,4.695799,-74.08704,BOGOTA,Mall,OPEN,Colombia
+physicalStore,Zara,11858,4.732694,-74.06671,BOGOTA,Mall,OPEN,Colombia
+physicalStore,Zara,3750,4.7022,-74.04153333,BOGOTA,Mall,OPEN,Colombia
+physicalStore,Zara,3880,4.66698333,-74.05313888,BOGOTA,Street,OPEN,Colombia
+physicalStore,Zara,12102,4.65188,-74.12607,BOGOTA,Mall,OPEN,Colombia
+physicalStore,Zara,9305,24.88479,118.59519,QUANZHOU,Mall,OPEN,Mainland China
+physicalStore,Zara,6473,22.2858409,114.2170366,TAI KOO,Mall,OPEN,Hong Kong S.A.R.
+physicalStore,Zara,9030,22.3224469,114.2137301,KOWLOON BAY,Mall,OPEN,Hong Kong S.A.R.
+physicalStore,Zara,3454,22.278163,114.1821159,CAUSEWAY BAY,Mall,OPEN,Hong Kong S.A.R.
+physicalStore,Zara,3472,22.299115399999998,114.1683089,TSIM SHA TSUI,Mall,OPEN,Hong Kong S.A.R.
+physicalStore,Zara,3703,22.3057269,114.1616969,TSIM SHA TSUI,Mall,OPEN,Hong Kong S.A.R.
+physicalStore,Zara,3453,22.2771944,114.1653611,ADMIRAITY,Mall,OPEN,Hong Kong S.A.R.
+physicalStore,Zara,3349,22.28575,114.15815,CENTRAL,Mall,OPEN,Hong Kong S.A.R.
+physicalStore,Zara,1492,22.2826433,114.1555979,CENTRAL,Street,OPEN,Hong Kong S.A.R.
+physicalStore,Zara,1363,22.3233128,114.2581857,TSEUNG KWAN O,Mall,OPEN,Hong Kong S.A.R.
+physicalStore,Zara,3689,22.382134399999998,114.1889277,SHA TIN,Mall,OPEN,Hong Kong S.A.R.
+physicalStore,Zara,9102,22.4454874,114.0352284,YUEN LONG,Mall,OPEN,Hong Kong S.A.R.
+physicalStore,Zara,9175,22.318795,113.937578,CHEK LAP KOK,Airport,OPEN,Hong Kong S.A.R.
+physicalStore,Zara,10325,24.689115,46.683144,RIYADH,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,9174,24.693734,46.669648,RIYADH,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,3520,24.5590674,46.6343738,RIYADH,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,3623,24.7426924,46.6786238,RIYADH,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,3856,24.742997,46.657682,RIYADH,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,13891,24.750992,46.652218,RIYADH,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,6443,24.768295000000002,46.716287,RIYADH,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,13612,24.740442,46.624374,RIYADH,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,9221,24.7814424,46.7278738,RIYADH,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,10326,24.773868,46.775844,RIYADH,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,12429,24.777065,46.799343,RIYADH,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,14734,24.82848,46.727436,RIYADH,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,7065,-33.41717,-70.60643,PROVIDENCIA,Mall,OPEN,Chile
+physicalStore,Zara,7083,-33.45311594,-70.56926239,LA REINA,Mall,OPEN,Chile
+physicalStore,Zara,7009,-33.40119265,-70.57924747,LAS CONDES,Mall,OPEN,Chile
+physicalStore,Zara,7031,-33.51062699,-70.60662294,LA FLORIDA,Mall,OPEN,Chile
+physicalStore,Zara,7053,-33.51684391,-70.7164405,CERRILLOS,Mall,OPEN,Chile
+physicalStore,Zara,7023,-33.39093648,-70.54607285,LAS CONDES,Mall,OPEN,Chile
+physicalStore,Zara,7035,-33.35885049,-70.5163472,LO BARNECHEA,Mall,OPEN,Chile
+physicalStore,Zara,3813,32.02605,118.78045,NANJING,Mall,OPEN,Mainland China
+physicalStore,Zara,12860,31.99894,118.71665,NANJING,Mall,OPEN,Mainland China
+physicalStore,Zara,12388,31.99894,118.71665,NANJING,Mall,OPEN,Mainland China
+physicalStore,Zara,3624,-7.26303817,112.7390308,SURABAYA,Mall,OPEN,Indonesia
+physicalStore,Zara,6456,-7.27596578,112.7821843,SURABAYA,Mall,OPEN,Indonesia
+physicalStore,Zara,11940,-7.28890727,112.6756697,SURABAYA,Mall,OPEN,Indonesia
+physicalStore,Zara,6474,21.1457,72.7571,SURAT,Mall,OPEN,India
+physicalStore,Zara,14858,41.803596,123.471504,SHENYANG,Mall,OPEN,Mainland China
+physicalStore,Zara,57,40.42016388,-3.70416944,MADRID,Street,OPEN,Spain
+physicalStore,Zara,62,40.41828055,-3.704875,MADRID,Street,OPEN,Spain
+physicalStore,Zara,14766,40.4236782,-3.7107866,MADRID,Street,OPEN,Spain
+physicalStore,Zara,55,40.43049722,-3.70300833,MADRID,Street,OPEN,Spain
+physicalStore,Zara,6479,40.426575,-3.687627,MADRID,Street,OPEN,Spain
+physicalStore,Zara,231,40.43072222,-3.71633888,MADRID,Street,OPEN,Spain
+physicalStore,Zara,61,40.42674444,-3.67555,MADRID,Street,OPEN,Spain
+physicalStore,Zara,11640,40.447534,-3.69258,MADRID,Street,OPEN,Spain
+physicalStore,Zara,12188,40.391117,-3.701552,MADRID,Mall,OPEN,Spain
+physicalStore,Zara,16299,40.479984,-3.7063527,MADRID,Mall,OPEN,Spain
+physicalStore,Zara,290,40.3644,-3.73778,MADRID,Mall,OPEN,Spain
+physicalStore,Zara,14957,40.34029,-3.7290611,LEGANES,Mall,OPEN,Spain
+physicalStore,Zara,199,40.4469894,-3.5864038,MADRID,Mall,OPEN,Spain
+physicalStore,Zara,523,40.369335,-3.597636,MADRID,Mall,OPEN,Spain
+physicalStore,Zara,126,40.51879119,-3.65545988,ALCOBENDAS,Mall,OPEN,Spain
+physicalStore,Zara,208,40.358409,-3.8321,ALCORCON,Mall,OPEN,Spain
+physicalStore,Zara,140,40.4528923,-3.86846995,MAJADAHONDA,Mall,OPEN,Spain
+physicalStore,Zara,247,40.54031,-3.612268,SAN SEBASTIAN DE LOS REYES,Mall,OPEN,Spain
+physicalStore,Zara,287,40.33723449,-3.52460598,RIVAS-VACIAMADRID,Mall,OPEN,Spain
+physicalStore,Zara,699,40.490437,-3.899717,MAJADAHONDA,Mall,OPEN,Spain
+physicalStore,Zara,13640,40.47603,-3.47833,TORREJON DE ARDOZ,Mall,OPEN,Spain
+physicalStore,Zara,216,40.300686,-3.928122,ARROYOMOLINOS,Mall,OPEN,Spain
+physicalStore,Zara,11810,25.7669179,-80.1925339,MIAMI,Mall,OPEN,United States
+physicalStore,Zara,6401,25.790415,-80.132217,MIAMI BEACH,Street,OPEN,United States
+physicalStore,Zara,16086,25.690186,-80.31467,MIAMI,Mall,OPEN,United States
+physicalStore,Zara,12063,25.957940999999998,-80.14264,AVENTURA,Mall,OPEN,United States
+physicalStore,Zara,9069,1.30513888,103.83162777,SINGAPORE,Mall,OPEN,Singapore
+physicalStore,Zara,9033,1.304181,103.83178,SINGAPORE,Mall,OPEN,Singapore
+physicalStore,Zara,3621,1.272062,103.82344,SINGAPORE,Mall,OPEN,Singapore
+physicalStore,Zara,6455,1.283802,103.859317,SINGAPORE,Mall,OPEN,Singapore
+physicalStore,Zara,12484,1.35021,103.9855,SINGAPORE,Mall,OPEN,Singapore
+physicalStore,Zara,3347,29.740555,-95.46295,HOUSTON,Mall,OPEN,United States
+physicalStore,Zara,1223,29.781019999999998,-95.539978,HOUSTON,Mall,OPEN,United States
+physicalStore,Zara,10737,29.960034999999998,-95.539201,HOUSTON,Mall,OPEN,United States
+physicalStore,Zara,6477,32.86883,-96.77392,DALLAS,Mall,OPEN,United States
+physicalStore,Zara,3486,32.93171,-96.81943,DALLAS,Mall,OPEN,United States
+physicalStore,Zara,10989,39.941165240000004,-75.02495596,CHERRY HILL,Mall,OPEN,United States
+physicalStore,Zara,12214,40.08794,-75.39218,KING OF PRUSSIA,Mall,OPEN,United States
+physicalStore,Zara,3966,43.7781,-79.34481,TORONTO,Mall,OPEN,Canada
+physicalStore,Zara,3159,43.72582,-79.45033,TORONTO,Mall,OPEN,Canada
+physicalStore,Zara,3194,43.6545039,-79.3811117,TORONTO,Mall,OPEN,Canada
+physicalStore,Zara,9249,43.776007,-79.257939,SCARBOROUGH,Mall,OPEN,Canada
+physicalStore,Zara,3315,43.64938,-79.3922428,TORONTO,Street,OPEN,Canada
+physicalStore,Zara,9292,43.8683345,-79.2878486,MARKHAM,Mall,OPEN,Canada
+physicalStore,Zara,11808,43.6111734,-79.5566318,ETOBICOKE,Mall,OPEN,Canada
+physicalStore,Zara,9277,43.593711400000004,-79.6428477,MISSISSAUGA,Mall,OPEN,Canada
+physicalStore,Zara,3914,20.64736,-103.32062,GUADALAJARA,Mall,OPEN,Mexico
+physicalStore,Zara,3017,20.6738,-103.40498,ZAPOPAN,Mall,OPEN,Mexico
+physicalStore,Zara,3823,20.71005,-103.41125,ZAPOPAN,Mall,OPEN,Mexico
+physicalStore,Zara,12614,20.6443855,-103.4119322,GUADALAJARA,Mall,OPEN,Mexico
+physicalStore,Zara,3382,20.67704,-103.4302,GUADALAJARA,Mall,OPEN,Mexico
+physicalStore,Zara,12679,20.5691725,-103.4537218,JALISCO,Mall,OPEN,Mexico
+physicalStore,Zara,3972,38.9125,121.586389,DALIAN,Mall,OPEN,Mainland China
+physicalStore,Zara,3602,39.951412,32.83294,ANKARA,Mall,OPEN,Turkey
+physicalStore,Zara,251,39.909011,32.77629,ANKARA,Mall,OPEN,Turkey
+physicalStore,Zara,3737,39.84796,32.83329,ANKARA,Mall,OPEN,Turkey
+physicalStore,Zara,3991,39.8996748,32.6916214,ANKARA,Mall,OPEN,Turkey
+physicalStore,Zara,12335,39.98328,32.610527,ANKARA,Mall,OPEN,Turkey
+physicalStore,Zara,9119,36.065556,120.37389,QINGDAO,Mall,OPEN,Mainland China
+physicalStore,Zara,3249,25.638102,-100.314059,MONTERREY,Mall,OPEN,Mexico
+physicalStore,Zara,361,25.649137,-100.336381,SAN PEDRO GARZA GARCIA,Mall,OPEN,Mexico
+physicalStore,Zara,12748,25.658865,-100.354487,MONTERREY,Mall,OPEN,Mexico
+physicalStore,Zara,3031,25.681769,-100.35477,MONTERREY,Mall,OPEN,Mexico
+physicalStore,Zara,3508,25.6512266,-100.3596963,SAN PEDRO GARZA GARCIA,Mall,OPEN,Mexico
+physicalStore,Zara,10633,25.577218000000002,-100.244999,MONTERREY,Mall,OPEN,Mexico
+physicalStore,Zara,684,25.731512000000002,-100.395585,MONTERREY,Mall,OPEN,Mexico
+physicalStore,Zara,11655,-19.920554,-43.920047,BELO HORIZONTE,Mall,OPEN,Brazil
+physicalStore,Zara,7022,-19.974678,-43.944379,BELO HORIZONTE,Mall,OPEN,Brazil
+physicalStore,Zara,9318,34.7163985,113.6444655,ZHENGZHOU,Mall,OPEN,Mainland China
+physicalStore,Zara,9697,34.768262,113.770298,ZHENGZHOU,Mall,OPEN,Mainland China
+physicalStore,Zara,3797,33.84664,-84.36307,ATLANTA,Mall,OPEN,United States
+physicalStore,Zara,12359,33.923519999999996,-84.34082,ATLANTA,Mall,OPEN,United States
+physicalStore,Zara,3238,38.8631473,-77.0599691,ARLINGTON,Mall,OPEN,United States
+physicalStore,Zara,6442,38.918012,-77.220367,MC LEAN,Mall,OPEN,United States
+physicalStore,Zara,3747,39.023787999999996,-77.145306,BETHESDA,Mall,OPEN,United States
+physicalStore,Zara,7094,-37.813727,144.96467,MELBOURNE,Street,OPEN,Australia
+physicalStore,Zara,7080,-37.774056,144.888671,MELBOURNE,Mall,OPEN,Australia
+physicalStore,Zara,7078,-37.884637,145.083204,MELBOURNE,Mall,OPEN,Australia
+physicalStore,Zara,1382,-37.784936,145.125757,MELBOURNE,Mall,OPEN,Australia
+physicalStore,Zara,12785,52.52032,13.414864999999999,BERLIN,Mall,OPEN,Germany
+physicalStore,Zara,3742,52.518349,13.389909,BERLIN,Street,OPEN,Germany
+physicalStore,Zara,9245,52.510025,13.379598999999999,BERLIN,Mall,OPEN,Germany
+physicalStore,Zara,3137,52.503305,13.339419,BERLIN,Street,OPEN,Germany
+physicalStore,Zara,4833,52.584825,13.286591,BERLIN,Mall,OPEN,Germany
+physicalStore,Zara,9254,36.6644444,117.0175,JINAN,Mall,OPEN,Mainland China
+physicalStore,Zara,12892,36.6583333,117.09527800000001,JINAN,Mall,OPEN,Mainland China
+physicalStore,Zara,9051,31.168858,29.931263,ALEXANDRIA,Mall,OPEN,Egypt
+physicalStore,Zara,7093,-33.87064,151.20837,SYDNEY,Mall,OPEN,Australia
+physicalStore,Zara,7074,-33.890946,151.250764,SYDNEY,Mall,OPEN,Australia
+physicalStore,Zara,6481,-33.797973999999996,151.183741,SYDNEY,Mall,OPEN,Australia
+physicalStore,Zara,7089,-33.777212,151.118391,SYDNEY,Mall,OPEN,Australia
+physicalStore,Zara,10730,-33.817675,151.00241,SYDNEY,Mall,OPEN,Australia
+physicalStore,Zara,1379,-34.034941,151.099401,SYDNEY,Mall,OPEN,Australia
+physicalStore,Zara,300,41.38531944,2.17343611,BARCELONA,Street,OPEN,Spain
+physicalStore,Zara,30,41.38553611,2.16952777,BARCELONA,Street,OPEN,Spain
+physicalStore,Zara,11836,41.386705,2.168771,BARCELONA,Street,OPEN,Spain
+physicalStore,Zara,160,41.38938,2.168531,BARCELONA,Street,OPEN,Spain
+physicalStore,Zara,127,41.40388,2.188688,BARCELONA,Mall,OPEN,Spain
+physicalStore,Zara,1181,41.399856,2.155481,BARCELONA,Street,OPEN,Spain
+physicalStore,Zara,117,41.393652,2.147366,BARCELONA,Street,OPEN,Spain
+physicalStore,Zara,115,41.38977432,2.13541388,BARCELONA,Mall,OPEN,Spain
+physicalStore,Zara,180,41.4104,2.21577,BARCELONA,Mall,OPEN,Spain
+physicalStore,Zara,209,41.359066,2.12888,L'HOSPITALET DE LLOBREGAT,Mall,OPEN,Spain
+physicalStore,Zara,171,41.4395506,2.1986154,BARCELONA,Mall,OPEN,Spain
+physicalStore,Zara,12270,41.376694,2.098373,ESPLUGUES DE LLOBREGAT,Mall,OPEN,Spain
+physicalStore,Zara,288,41.34811,2.077703,CORNELLA DE LLOBREGAT,Mall,OPEN,Spain
+physicalStore,Zara,11242,41.489416,2.1091757,CERDANYOLA DEL VALLES,Street,PROVISIONAL,Spain
+physicalStore,Zara,139,41.48241,2.052426,SANT CUGAT DEL VALLES,Mall,OPEN,Spain
+physicalStore,Zara,260,41.283836,1.986766,CASTELLDEFELS,Mall,OPEN,Spain
+physicalStore,Zara,29,41.54619444,2.10917222,SABADELL,Street,OPEN,Spain
+physicalStore,Zara,31,41.56116388,2.00756944,TERRASSA,Street,OPEN,Spain
+physicalStore,Zara,165,41.55469131,2.43474006,MATARO,Mall,OPEN,Spain
+physicalStore,Zara,7069,-33.904545,18.420102999999997,CAPE TOWN,Mall,OPEN,South Africa
+physicalStore,Zara,10704,-33.89307,18.511605,CAPE TOWN,Mall,OPEN,South Africa
+physicalStore,Zara,14631,21.55639,39.185050000000004,JEDDAH,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,3519,21.577143,39.196371,JEDDAH,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,3088,21.5169444,39.2191667,JEDDAH,Street,OPEN,Saudi Arabia
+physicalStore,Zara,6485,21.50921,39.224766,JEDDAH,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,11719,21.59319,39.228245,JEDDAH,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,3917,21.632442,39.153873000000004,JEDDAH,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,14822,21.627777000000002,39.11111,JEDDAH,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,14672,28.23936938,112.97921146,CHANGSHA,Mall,OPEN,Mainland China
+physicalStore,Zara,12447,28.19587,112.9719,CHANGSHA,Mall,OPEN,Mainland China
+physicalStore,Zara,12261,28.19587,112.9719,CHANGSHA,Mall,OPEN,Mainland China
+physicalStore,Zara,13960,28.1196,112.93354,CHANGSHA,Mall,OPEN,Mainland China
+physicalStore,Zara,3753,42.3498945,-71.0806834,BOSTON,Street,OPEN,United States
+physicalStore,Zara,3701,42.3013905,-71.3828674,NATICK,Mall,OPEN,United States
+physicalStore,Zara,14706,38.398026,27.068516,İZMİR,Mall,OPEN,Turkey
+physicalStore,Zara,3643,38.45034027,27.2086791,İZMİR,Mall,OPEN,Turkey
+physicalStore,Zara,12747,38.4784351,27.0743432,İZMİR,Mall,OPEN,Turkey
+physicalStore,Zara,11754,38.338486,27.134638,İZMİR,Mall,OPEN,Turkey
+physicalStore,Zara,9071,25.052911,102.6953049,KUNMING,Mall,OPEN,Mainland China
+physicalStore,Zara,13520,25.02583333,102.711944,KUNMING,Mall,OPEN,Mainland China
+physicalStore,Zara,1280,43.8394444,125.23694444,CHANGCHUN,Mall,OPEN,Mainland China
+physicalStore,Zara,9116,43.8214454,87.588558,URUMQI / WULUMUQI,Mall,OPEN,Mainland China
+physicalStore,Zara,6438,31.31352,120.62091,SUZHOU,Street,OPEN,Mainland China
+physicalStore,Zara,12280,31.31861111,120.6736111,SUZHOU,Mall,OPEN,Mainland China
+physicalStore,Zara,14633,31.40333,120.60195,SUZHOU,Mall,OPEN,Mainland China
+physicalStore,Zara,5665,-3.755748,-38.488605,FORTALEZA,Mall,OPEN,Brazil
+physicalStore,Zara,5656,-3.74098,-38.471991,FORTALEZA,Mall,OPEN,Brazil
+physicalStore,Zara,6422,33.504026,-111.9289302,SCOTTSDALE,Mall,OPEN,United States
+physicalStore,Zara,10853,31.964053,35.9084698,AMMAN,Mall,OPEN,Jordan
+physicalStore,Zara,3619,31.98033,35.837434,AMMAN,Mall,OPEN,Jordan
+physicalStore,Zara,7579,31.8011111,117.223889,HEFEI,Mall,OPEN,Mainland China
+physicalStore,Zara,1403,38.04305556,114.501111,SHIJIAZHUANG,Mall,OPEN,Mainland China
+physicalStore,Zara,9027,29.87287,121.54962,NINGBO,Mall,OPEN,Mainland China
+physicalStore,Zara,1256,35.338812,139.446008,FUJISAWA,Mall,OPEN,Japan
+physicalStore,Zara,6439,35.455162,139.388812,EBINA,Mall,OPEN,Japan
+physicalStore,Zara,11827,42.56139,-83.18389,TROY,Mall,OPEN,United States
+physicalStore,Zara,3082,45.5015319,-73.5716696,MONTREAL,Mall,OPEN,Canada
+physicalStore,Zara,3473,45.5282718,-73.6480281,MONT-ROYAL,Mall,OPEN,Canada
+physicalStore,Zara,282,45.4465431,-73.4364772,BROSSARD,Mall,OPEN,Canada
+physicalStore,Zara,9278,45.5047486,-73.378404,SAINT-BRUNO-DE-MONTARVILLE,Mall,OPEN,Canada
+physicalStore,Zara,3160,45.5693864,-73.7501696,LAVAL,Mall,OPEN,Canada
+physicalStore,Zara,3910,45.4639018,-73.8309668,POINTE-CLAIRE,Mall,OPEN,Canada
+physicalStore,Zara,3286,45.6298112,-73.8194403,ROSEMERE,Mall,OPEN,Canada
+physicalStore,Zara,3896,37.8171109,112.558301,TAIYUAN,Mall,OPEN,Mainland China
+physicalStore,Zara,1364,22.81629,108.38051,NANNING,Mall,OPEN,Mainland China
+physicalStore,Zara,10915,3.58206139,98.67137118,MEDAN,Mall,OPEN,Indonesia
+physicalStore,Zara,3895,45.76916667,126.61416667,HARBIN,Mall,OPEN,Mainland China
+physicalStore,Zara,9099,45.701838,126.594333,HARBIN,Mall,OPEN,Mainland China
+physicalStore,Zara,9025,45.701838,126.594333,HARBIN,Mall,OPEN,Mainland China
+physicalStore,Zara,6424,47.6116825,-122.3372406,SEATTLE,Mall,OPEN,United States
+physicalStore,Zara,7998,47.61432,-122.376,BELLEVUE,Mall,OPEN,United States
+physicalStore,Zara,12430,47.82964,-122.27357,LYNNWOOD,Mall,OPEN,United States
+physicalStore,Zara,3329,33.599998,-7.619999,CASABLANCA,Street,OPEN,Morocco
+physicalStore,Zara,9269,33.576065,-7.7068,CASABLANCA,Mall,OPEN,Morocco
+physicalStore,Zara,9286,26.035785,119.275847,FUZHOU,Mall,OPEN,Mainland China
+physicalStore,Zara,12386,36.75111,2.95212,ALGIERS,Mall,OPEN,Algeria
+physicalStore,Zara,4863,36.712193,3.196871,ALGIERS,Mall,OPEN,Algeria
+physicalStore,Zara,14653,27.991782,120.70802,WENZHOU,Mall,OPEN,Mainland China
+physicalStore,Zara,3611,37.78484,-122.40667,SAN FRANCISCO,Mall,OPEN,United States
+physicalStore,Zara,3441,37.78862,-122.40624,SAN FRANCISCO,Street,OPEN,United States
+physicalStore,Zara,11828,37.72733,-122.4773,SAN FRANCISCO,Mall,OPEN,United States
+physicalStore,Zara,13670,25.251875300000002,55.331448800000004,DUBAI,Mall,OPEN,United Arab Emirates
+physicalStore,Zara,12190,25.221867,55.353577,DUBAI,Mall,OPEN,United Arab Emirates
+physicalStore,Zara,13521,25.1984,55.27814,DUBAI,Mall,OPEN,United Arab Emirates
+physicalStore,Zara,9044,25.2157919,55.4078538,DUBAI,Mall,OPEN,United Arab Emirates
+physicalStore,Zara,13701,25.316847199999998,55.455547100000004,SHARJAH,Mall,OPEN,United Arab Emirates
+physicalStore,Zara,13861,25.1019,55.2396,DUBAI,Mall,OPEN,United Arab Emirates
+physicalStore,Zara,3488,25.1171835,55.2020429,DUBAI,Mall,OPEN,United Arab Emirates
+physicalStore,Zara,6434,28.685611,115.860155,NANCHANG,Mall,OPEN,Mainland China
+physicalStore,Zara,9315,28.685611,115.860155,NANCHANG,Mall,OPEN,Mainland China
+physicalStore,Zara,9302,35.155406,129.060927,BUSAN,Street,OPEN,South Korea
+physicalStore,Zara,14970,35.16923,129.131306,BUSAN,Mall,OPEN,South Korea
+physicalStore,Zara,6406,35.230071,129.08816,BUSAN,Street,OPEN,South Korea
+physicalStore,Zara,9140,35.098383,129.035734,BUSAN,Mall,OPEN,South Korea
+physicalStore,Zara,9177,40.8343179,111.734203,HOHHOT,Mall,OPEN,Mainland China
+physicalStore,Zara,9324,26.853288,75.805278,JAIPUR,Mall,OPEN,India
+physicalStore,Zara,13959,26.605,106.614167,GUIYANG,Mall,OPEN,Mainland China
+physicalStore,Zara,3996,32.7676288,-117.1685668,SAN DIEGO,Mall,OPEN,United States
+physicalStore,Zara,7013,32.8704075,-117.2112103,SAN DIEGO,Mall,OPEN,United States
+physicalStore,Zara,3337,37.97966111,23.73195277,ATHINA,Street,OPEN,Greece
+physicalStore,Zara,3046,37.98346,23.72856,ATHINA,Street,OPEN,Greece
+physicalStore,Zara,341,37.976242,23.729329,ATHINA,Street,OPEN,Greece
+physicalStore,Zara,322,37.975726,23.732677,ATHINA,Street,OPEN,Greece
+physicalStore,Zara,332,37.999151,23.733167,ATHINA,Street,OPEN,Greece
+physicalStore,Zara,3452,37.999646,23.733022,ATHINA,Street,OPEN,Greece
+physicalStore,Zara,352,37.957776,23.704854,KALLITHEA,Street,OPEN,Greece
+physicalStore,Zara,3654,37.946786,23.711199999999998,NEA SMYRNI,Street,OPEN,Greece
+physicalStore,Zara,12758,37.980183,23.679472,AIGALEO,Mall,OPEN,Greece
+physicalStore,Zara,9145,37.93945,23.74021,ATHINA,Mall,OPEN,Greece
+physicalStore,Zara,3639,38.021607,23.79908,CHALANDRI,Street,OPEN,Greece
+physicalStore,Zara,3364,38.045569,23.757747000000002,NEA IONIA,Street,OPEN,Greece
+physicalStore,Zara,3695,38.047026,23.75949,NEA IONIA,Street,OPEN,Greece
+physicalStore,Zara,3826,38.034048,23.792868,MAROUSI,Mall,OPEN,Greece
+physicalStore,Zara,323,37.943813,23.647658,PIREAS,Street,OPEN,Greece
+physicalStore,Zara,387,37.941194,23.64768,PIREAS,Street,OPEN,Greece
+physicalStore,Zara,3525,38.045506,23.790337,MAROUSI,Mall,OPEN,Greece
+physicalStore,Zara,3131,38.071744,23.813429,KIFISIA,Street,OPEN,Greece
+physicalStore,Zara,3328,37.860269,23.754045,GLYFADA,Street,OPEN,Greece
+physicalStore,Zara,12109,37.98503,23.912518,SPATA-ARTEMIDA,Mall,OPEN,Greece
+physicalStore,Zara,15980,38.10348,23.5814,ASPROPYRGOS,Street,PROVISIONAL,Greece
+physicalStore,Zara,6451,31.491111,120.298888,WUXI,Mall,OPEN,Mainland China
+physicalStore,Zara,1466,31.58354,120.39038,WUXI,Mall,OPEN,Mainland China
+physicalStore,Zara,1474,24.1644993,120.6379509,TAICHUNG,Mall,OPEN,"Taiwan, China"
+physicalStore,Zara,3710,14.621518,-90.55323,CIUDAD DE GUATEMALA,Mall,OPEN,Guatemala
+physicalStore,Zara,3933,14.598561,-90.506935,CIUDAD DE GUATEMALA,Mall,OPEN,Guatemala
+physicalStore,Zara,6603,14.551590000000001,-90.454731,CIUDAD DE GUATEMALA,Mall,OPEN,Guatemala
+physicalStore,Zara,13892,29.3741,47.986225,KUWAIT,Mall,OPEN,Kuwait
+physicalStore,Zara,3053,29.329404,48.00393,KUWAIT,Mall,OPEN,Kuwait
+physicalStore,Zara,3218,29.339104,48.065968,SALMIYA,Mall,OPEN,Kuwait
+physicalStore,Zara,3675,29.339075,48.06597,ALRAI,Mall,OPEN,Kuwait
+physicalStore,Zara,9309,29.17491,48.098103,KUWAIT,Mall,OPEN,Kuwait
+physicalStore,Zara,3387,47.49541944,19.05158055,BUDAPEST,Street,OPEN,Hungary
+physicalStore,Zara,3861,47.474449,19.048971,BUDAPEST,Mall,OPEN,Hungary
+physicalStore,Zara,6465,47.513664,19.059658,BUDAPEST,Mall,OPEN,Hungary
+physicalStore,Zara,3806,47.49891,19.091578,BUDAPEST,Mall,OPEN,Hungary
+physicalStore,Zara,10392,47.464843,19.023687000000002,BUDAPEST,Mall,OPEN,Hungary
+physicalStore,Zara,3386,47.502473,19.136958,BUDAPEST,Mall,OPEN,Hungary
+physicalStore,Zara,16455,41.3162,69.21524,TASHKENT,Mall,OPEN,Uzbekistan
+physicalStore,Zara,3850,50.49385452,30.5585994,KYIV,Mall,OPEN,Ukraine
+physicalStore,Zara,9021,50.50569915,30.4982776,KYIV,Mall,OPEN,Ukraine
+physicalStore,Zara,12507,50.406704,30.610521,KYIV,Mall,OPEN,Ukraine
+physicalStore,Zara,14690,50.37485,30.447943,KYIV,Mall,OPEN,Ukraine
+physicalStore,Zara,11916,50.496962,30.357573,KYIV,Mall,OPEN,Ukraine
+physicalStore,Zara,1384,37.405357,126.684162,INCHEON,Mall,OPEN,South Korea
+physicalStore,Zara,11794,37.380957,126.659154,INCHEON,Mall,OPEN,South Korea
+physicalStore,Zara,3213,52.477375,-1.89463333,BIRMINGHAM,Mall,OPEN,United Kingdom
+physicalStore,Zara,3299,52.411941999999996,-1.77831,SOLIHULL,Mall,OPEN,United Kingdom
+physicalStore,Zara,12085,40.20751,28.99578,BURSA,Mall,OPEN,Turkey
+physicalStore,Zara,3738,40.25151062,28.958436900000002,BURSA,Mall,OPEN,Turkey
+physicalStore,Zara,10991,44.85607,-93.24141,BLOOMINGTON,Mall,OPEN,United States
+physicalStore,Zara,3859,27.964427999999998,-82.521675,TAMPA,Mall,OPEN,United States
+physicalStore,Zara,7039,-15.791172,-47.883218,BRASILIA,Mall,OPEN,Brazil
+physicalStore,Zara,7058,-15.720335,-47.885841,BRASILIA,Mall,OPEN,Brazil
+physicalStore,Zara,7024,-15.833465,-47.955315999999996,BRASILIA,Mall,OPEN,Brazil
+physicalStore,Zara,14813,48.775765,9.176087,STUTTGART,Street,OPEN,Germany
+physicalStore,Zara,1460,48.791245,9.183149,STUTTGART,Mall,OPEN,Germany
+physicalStore,Zara,3126,48.703863,9.031663,SINDELFINGEN,Mall,OPEN,Germany
+physicalStore,Zara,3184,48.921202,9.148929,LUDWIGSBURG,Mall,OPEN,Germany
+physicalStore,Zara,9226,41.901766,12.48049,ROMA,Street,OPEN,Italy
+physicalStore,Zara,1265,41.88434,12.510844,ROMA,Street,OPEN,Italy
+physicalStore,Zara,3591,41.81741517,12.45926873,ROMA,Mall,OPEN,Italy
+physicalStore,Zara,3680,41.97038,12.539927,ROMA,Mall,OPEN,Italy
+physicalStore,Zara,12059,41.88426973,12.60754257,ROMA,Mall,OPEN,Italy
+physicalStore,Zara,3534,41.9140896,12.66118746,ROMA,Mall,OPEN,Italy
+physicalStore,Zara,1472,22.6692385,120.3027452,KAOHSIUNG,Mall,OPEN,"Taiwan, China"
+physicalStore,Zara,11768,20.01788,110.34219,HAIKOU,Mall,OPEN,Mainland China
+physicalStore,Zara,12517,39.7168,-104.95268,DENVER,Mall,OPEN,United States
+physicalStore,Zara,6468,-2.168681,-79.89777,STGO DE GUAYAQUIL,Mall,OPEN,Ecuador
+physicalStore,Zara,3109,48.140046,11.575599,MÜNCHEN,Street,OPEN,Germany
+physicalStore,Zara,1372,48.138523,11.568306,MÜNCHEN,Street,OPEN,Germany
+physicalStore,Zara,3605,48.159273,11.584868,MÜNCHEN,Street,OPEN,Germany
+physicalStore,Zara,3421,48.184315,11.53219,MÜNCHEN,Mall,OPEN,Germany
+physicalStore,Zara,3335,48.13282,11.692607,MÜNCHEN,Mall,OPEN,Germany
+physicalStore,Zara,1225,25.0335113,121.5640825,TAIPEI,Mall,OPEN,"Taiwan, China"
+physicalStore,Zara,1293,25.0416768,121.551655,TAIPEI,Street,OPEN,"Taiwan, China"
+physicalStore,Zara,1392,25.0491593,121.5172417,TAIPEI,Mall,OPEN,"Taiwan, China"
+physicalStore,Zara,6435,25.006362,121.474864,TAIPEI,Mall,OPEN,"Taiwan, China"
+physicalStore,Zara,1422,25.053471000000002,121.288333,TAOYUAN COUNTY,Mall,OPEN,"Taiwan, China"
+physicalStore,Zara,9108,6.19936,-75.57519,MEDELLIN,Mall,OPEN,Colombia
+physicalStore,Zara,16162,3.4442995,-76.50068,SANTIAGO DE CALI,Mall,OPEN,Colombia
+physicalStore,Zara,3781,3.3688805,-76.52833,SANTIAGO DE CALI,Mall,OPEN,Colombia
+physicalStore,Zara,3072,53.5516,10.0023,HAMBURG,Street,OPEN,Germany
+physicalStore,Zara,9147,53.570366,9.862268,HAMBURG,Mall,OPEN,Germany
+physicalStore,Zara,3549,53.653396,10.092337,HAMBURG,Mall,OPEN,Germany
+physicalStore,Zara,3083,49.284059299999996,-123.1240438,VANCOUVER,Street,OPEN,Canada
+physicalStore,Zara,3157,49.2263304,-123.0024382,BURNABY,Mall,OPEN,Canada
+physicalStore,Zara,6471,49.3265192,-123.1370348,WEST VANCOUVER,Mall,OPEN,Canada
+physicalStore,Zara,9279,49.1678856,-123.1391004,RICHMOND,Mall,OPEN,Canada
+physicalStore,Zara,4877,33.8889895,35.520154,BEIRUT,Mall,OPEN,Lebanon
+physicalStore,Zara,12084,33.884002699999996,35.4842007,BEIRUT,Mall,OPEN,Lebanon
+physicalStore,Zara,1478,33.929657,35.5892235,BEIRUT,Mall,OPEN,Lebanon
+physicalStore,Zara,7043,-12.981768,-38.464582,SALVADOR,Mall,OPEN,Brazil
+physicalStore,Zara,9012,44.42031097,26.1267471,BUCHAREST,Mall,OPEN,Romania
+physicalStore,Zara,9008,44.429874,26.053349,BUCHAREST,Mall,OPEN,Romania
+physicalStore,Zara,1429,44.420567,26.150068,BUCHAREST,Mall,OPEN,Romania
+physicalStore,Zara,6142,44.44093,26.150406,BUCHAREST,Mall,OPEN,Romania
+physicalStore,Zara,688,44.395615,26.121584,BUCHAREST,Mall,OPEN,Romania
+physicalStore,Zara,3404,44.428539,26.03513,BUCHAREST,Mall,OPEN,Romania
+physicalStore,Zara,9273,44.47821003,26.103246210000002,BUCHAREST,Mall,OPEN,Romania
+physicalStore,Zara,3788,44.50679,26.089095999999998,BUCHAREST,Mall,OPEN,Romania
+physicalStore,Zara,14523,22.23852,113.51816,ZHUHAI,Mall,OPEN,Mainland China
+physicalStore,Zara,3993,35.868506,128.594868,DAEGU,Street,OPEN,South Korea
+physicalStore,Zara,1253,35.921441,128.637232,DAEGU,Mall,OPEN,South Korea
+physicalStore,Zara,1313,-27.469178,153.025494,BRISBANE,Street,OPEN,Australia
+physicalStore,Zara,10728,-27.5638109,153.0845731,BRISBANE,Mall,OPEN,Australia
+physicalStore,Zara,11777,34.1109848,-117.5336256,RANCHO CUCAMONGA,Mall,OPEN,United States
+physicalStore,Zara,6615,40.400622,49.852919,BAKU,Mall,OPEN,Azerbaijan
+physicalStore,Zara,1496,40.37977,49.847107,BAKU,Mall,OPEN,Azerbaijan
+physicalStore,Zara,1376,40.371765,49.837353,BAKU,Mall,OPEN,Azerbaijan
+physicalStore,Zara,3476,33.588097,130.39542,FUKUOKA,Street,OPEN,Japan
+physicalStore,Zara,14524,33.564411,130.440967,FUKUOKA,Mall,OPEN,Japan
+physicalStore,Zara,3303,36.12739,-115.16924,LAS VEGAS,Mall,OPEN,United States
+physicalStore,Zara,16550,10.489078,-66.85455,CARACAS,Mall,OPEN,Venezuela
+physicalStore,Zara,3173,48.20866944,16.37227222,WIEN,Street,OPEN,Austria
+physicalStore,Zara,3113,48.199818,16.353172,WIEN,Mall,OPEN,Austria
+physicalStore,Zara,946,48.241882000000004,16.435171,WIEN,Mall,OPEN,Austria
+physicalStore,Zara,1347,48.208095,16.218781,WIEN,Mall,OPEN,Austria
+physicalStore,Zara,3114,48.08255,16.2869,WIEN,Mall,OPEN,Austria
+physicalStore,Zara,10836,39.403980000000004,-76.59808,TOWSON,Mall,OPEN,United States
+physicalStore,Zara,6478,-31.952986,115.860008,PERTH,Street,OPEN,Australia
+physicalStore,Zara,14008,-31.87768,115.778308,PERTH,Mall,OPEN,Australia
+physicalStore,Zara,16324,11.52509,104.92379,PHNOM PENH,Mall,OPEN,Cambodia
+physicalStore,Zara,3279,59.3331757,18.072054899999998,STOCKHOLM,Street,OPEN,Sweden
+physicalStore,Zara,3462,59.33386,18.06151,STOCKHOLM,Street,OPEN,Sweden
+physicalStore,Zara,3505,59.33636,18.0728,STOCKHOLM,Mall,OPEN,Sweden
+physicalStore,Zara,3518,59.370018,18.003147,SOLNA,Mall,OPEN,Sweden
+physicalStore,Zara,12465,45.518209999999996,-122.6758,PORTLAND,Mall,OPEN,United States
+physicalStore,Zara,16087,29.5183745,-98.49620537999999,SAN ANTONIO,Mall,OPEN,United States
+physicalStore,Zara,3951,29.592959999999998,-98.61178,SAN ANTONIO,Mall,OPEN,United States
+physicalStore,Zara,14807,32.513405,-116.96582,TIJUANA,Mall,OPEN,Mexico
+physicalStore,Zara,12168,53.93346,27.65192,MINSK,Mall,,Belarus
+physicalStore,Zara,11826,53.90855,27.42936,MINSK,Mall,,Belarus
+physicalStore,Zara,3419,43.058898,141.354473,SAPPORO,Mall,OPEN,Japan
+physicalStore,Zara,3798,51.55606641,5.08693824,TILBURG,Street,OPEN,Netherlands
+physicalStore,Zara,3598,51.58731215,4.77556487,BREDA,Street,OPEN,Netherlands
+physicalStore,Zara,3415,51.6883371,5.30239734,S-HERTOGENBOSCH (DEN BOSCH),Street,OPEN,Netherlands
+physicalStore,Zara,1140,38.77147,-121.26717,ROSEVILLE,Mall,OPEN,United States
+physicalStore,Zara,6643,43.26383,76.9298,ALMATY,Mall,OPEN,Kazakhstan
+physicalStore,Zara,9204,43.233549,76.95657800000001,ALMATY,Mall,OPEN,Kazakhstan
+physicalStore,Zara,9073,43.202493,76.89205,ALMATY,Mall,OPEN,Kazakhstan
+physicalStore,Zara,16546,43.315155,77.02429,ALMATY,Mall,OPEN,Kazakhstan
+physicalStore,Zara,3950,30.4006,-97.72736,AUSTIN,Mall,OPEN,United States
+physicalStore,Zara,3986,28.4469589,-81.3967918,ORLANDO,Mall,OPEN,United States
+physicalStore,Zara,3874,28.3698522,-81.5173225,ORLANDO,Mall,OPEN,United States
+physicalStore,Zara,6413,22.9901211,120.2334186,TAINAN,Mall,OPEN,"Taiwan, China"
+physicalStore,Zara,3077,52.23354128,21.01006179,WARSZAWA,Street,OPEN,Poland
+physicalStore,Zara,3687,52.2307035,21.003261,WARSZAWA,Mall,OPEN,Poland
+physicalStore,Zara,3373,52.25824,20.986427,WARSZAWA,Mall,OPEN,Poland
+physicalStore,Zara,9010,52.21246077,20.9544367,WARSZAWA,Mall,OPEN,Poland
+physicalStore,Zara,3269,52.24198687,20.93216926,WARSZAWA,Mall,OPEN,Poland
+physicalStore,Zara,3561,52.1793,21.003849,WARSZAWA,Mall,OPEN,Poland
+physicalStore,Zara,12835,52.23259673,21.10607312,WARSZAWA,Mall,OPEN,Poland
+physicalStore,Zara,9085,52.3042098,21.05832284,WARSZAWA,Mall,OPEN,Poland
+physicalStore,Zara,12762,52.29379919,20.92948678,WARSZAWA,Mall,OPEN,Poland
+physicalStore,Zara,12761,52.13571046,20.89019154,WARSZAWA,Mall,OPEN,Poland
+physicalStore,Zara,3174,18.421528000000002,-66.073704,SAN JUAN,Mall,OPEN,Puerto Rico
+physicalStore,Zara,270,18.4122,-66.0255,SAN JUAN,Mall,OPEN,Puerto Rico
+physicalStore,Zara,3741,36.78378611,34.58955277,MERSIN,Mall,OPEN,Turkey
+physicalStore,Zara,6419,37.32534,-121.94521,SANTA CLARA,Mall,OPEN,United States
+physicalStore,Zara,7021,-25.4233,-49.270502,CURITIBA,Mall,OPEN,Brazil
+physicalStore,Zara,7076,-25.442881,-49.290878,CURITIBA,Mall,OPEN,Brazil
+physicalStore,Zara,7040,-25.435456000000002,-49.31646,CURITIBA,Mall,OPEN,Brazil
+physicalStore,Zara,10284,36.9901054,35.3405657,ADANA,Mall,OPEN,Turkey
+physicalStore,Zara,9001,-0.17621,-78.48024,QUITO,Mall,OPEN,Ecuador
+physicalStore,Zara,14821,23.5714242,58.4052772,MUSCAT,Mall,OPEN,Oman
+physicalStore,Zara,3684,23.599696,58.2488999,MUSCAT,Mall,OPEN,Oman
+physicalStore,Zara,7014,-34.903081900000004,-56.136778910000004,MONTEVIDEO,Mall,OPEN,Uruguay
+physicalStore,Zara,7010,-34.92382715,-56.16058588,MONTEVIDEO,Mall,OPEN,Uruguay
+physicalStore,Zara,12107,40.88793,-74.25855,WAYNE,Mall,OPEN,United States
+physicalStore,Zara,3948,14.088297,-87.1838,TEGUCIGALPA,Mall,OPEN,Honduras
+physicalStore,Zara,10837,41.4986875,-81.4944375,BEACHWOOD,Mall,OPEN,United States
+physicalStore,Zara,10992,25.000969,121.228654,TAOYUAN COUNTY,Mall,OPEN,"Taiwan, China"
+physicalStore,Zara,12477,39.470079,-0.373165,VALENCIA,Street,OPEN,Spain
+physicalStore,Zara,37,39.46796944,-0.37367777,VALENCIA,Street,OPEN,Spain
+physicalStore,Zara,78,39.48078918,-0.39069443,VALENCIA,Mall,OPEN,Spain
+physicalStore,Zara,132,39.454025,-0.353222,VALENCIA,Mall,OPEN,Spain
+physicalStore,Zara,528,39.494338,-0.361272,VALENCIA,Mall,OPEN,Spain
+physicalStore,Zara,267,39.45727,-0.345734,VALENCIA,Mall,OPEN,Spain
+physicalStore,Zara,186,39.471615,-0.488892,ALDAIA,Mall,OPEN,Spain
+physicalStore,Zara,399,21.15609,-101.69509,LEON,Mall,OPEN,Mexico
+physicalStore,Zara,9293,21.093079,-101.62703,LEON,Mall,OPEN,Mexico
+physicalStore,Zara,13935,19.031549300000002,-98.2337765,PUEBLA,Mall,OPEN,Mexico
+physicalStore,Zara,11852,40.0518603,-82.9146847,COLUMBUS,Mall,OPEN,United States
+physicalStore,Zara,9091,42.690926,23.35317,SOFIA,Mall,OPEN,Bulgaria
+physicalStore,Zara,6432,42.658924,23.317335,SOFIA,Mall,OPEN,Bulgaria
+physicalStore,Zara,3770,9.91744444,-84.04670833,SAN JOSE,Mall,OPEN,Costa Rica
+physicalStore,Zara,3380,8.984773,-79.511297,CIUDAD DE PANAMA,Mall,OPEN,Panama
+physicalStore,Zara,3633,8.974435,-79.55252300000001,CIUDAD DE PANAMA,Mall,OPEN,Panama
+physicalStore,Zara,9011,35.149201,126.91503900000001,GWANGJU,Street,OPEN,South Korea
+physicalStore,Zara,7068,-8.085467,-34.89077,RECIFE,Mall,OPEN,Brazil
+physicalStore,Zara,7033,-8.11906,-34.904923,RECIFE,Mall,OPEN,Brazil
+physicalStore,Zara,9039,36.352202,127.377658,DAEJEON,Mall,OPEN,South Korea
+physicalStore,Zara,9888,41.0971736,-73.9557194,WEST NYACK,Mall,OPEN,United States
+physicalStore,Zara,1373,35.00401,135.768619,KYOTO,Street,OPEN,Japan
+physicalStore,Zara,9181,34.982748,135.754607,KYOTO,Mall,OPEN,Japan
+physicalStore,Zara,9306,35.12377,135.945919,MORIYAMA,Mall,OPEN,Japan
+physicalStore,Zara,3132,52.370783,4.891747,AMSTERDAM,Street,OPEN,Netherlands
+physicalStore,Zara,6444,52.3741092,4.89346391,AMSTERDAM,Street,OPEN,Netherlands
+physicalStore,Zara,9135,52.30238913,4.86131564,AMSTELVEEN,Mall,OPEN,Netherlands
+physicalStore,Zara,11710,52.439097,4.821369,ZAANDAM,Street,OPEN,Netherlands
+physicalStore,Zara,9214,52.30420574,4.69314455,HOOFDDORP,Street,OPEN,Netherlands
+physicalStore,Zara,1269,52.3787981,4.63308555,HAARLEM,Street,OPEN,Netherlands
+physicalStore,Zara,3587,52.369661,5.217156,ALMERE,Street,OPEN,Netherlands
+physicalStore,Zara,3762,52.224721,5.176556,HILVERSUM,Mall,OPEN,Netherlands
+physicalStore,Zara,7059,-16.710720000000002,-49.236767,GOIANIA,Mall,OPEN,Brazil
+physicalStore,Zara,16212,24.495943,39.593624,MEDINA,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,3035,32.07549,34.775485,TEL AVIV,Mall,OPEN,Israel
+physicalStore,Zara,3947,32.074146,34.791767,TEL AVIV,Mall,OPEN,Israel
+physicalStore,Zara,11581,32.06942,34.78686,TEL AVIV,Mall,OPEN,Israel
+physicalStore,Zara,3013,32.11273193,34.7957839,TEL AVIV,Mall,OPEN,Israel
+physicalStore,Zara,3039,32.100227,34.826683,RAMAT GAN,Mall,OPEN,Israel
+physicalStore,Zara,3049,32.012461,34.779346000000004,HOLON,Mall,OPEN,Israel
+physicalStore,Zara,1227,31.989137,34.773611,RISHON LEZION,Mall,OPEN,Israel
+physicalStore,Zara,3389,32.19775,34.879345,RA'ANANA,Mall,OPEN,Israel
+physicalStore,Zara,9032,32.171235,34.928219,KFAR SABA,Mall,OPEN,Israel
+physicalStore,Zara,3208,31.893509,34.8077339,REHOVOT,Mall,OPEN,Israel
+physicalStore,Zara,6415,32.279022,34.846424,NETANYA,Mall,OPEN,Israel
+physicalStore,Zara,14538,31.899967,35.00818,MODI'IN,Mall,OPEN,Israel
+physicalStore,Zara,9314,41.277032,36.352837,SAMSUN,Mall,OPEN,Turkey
+physicalStore,Zara,3115,55.678764,12.57577,COPENHAGUEN,Street,OPEN,Denmark
+physicalStore,Zara,9134,55.6622258,12.5616015,COPENHAGUEN,Mall,OPEN,Denmark
+physicalStore,Zara,3366,55.63079,12.578479999999999,COPENHAGUEN,Mall,OPEN,Denmark
+physicalStore,Zara,3179,60.168927,24.942369,HELSINKI,Street,OPEN,Finland
+physicalStore,Zara,12123,60.161685,24.73791,ESPOO,Mall,OPEN,Finland
+physicalStore,Zara,3175,50.0852928,14.424806700000001,PRAGUE,Street,OPEN,Czech Republic
+physicalStore,Zara,12735,50.07287,14.40197,PRAGUE,Mall,OPEN,Czech Republic
+physicalStore,Zara,3522,50.0312081,14.4902753,PRAGUE,Mall,OPEN,Czech Republic
+physicalStore,Zara,3197,45.46478,9.19308,MILANO,Street,OPEN,Italy
+physicalStore,Zara,3307,45.46365356,9.18795235,MILANO,Street,OPEN,Italy
+physicalStore,Zara,9720,45.464604,9.195836,MILANO,Street,PROVISIONAL,Italy
+physicalStore,Zara,3327,45.481487,9.212104,MILANO,Street,OPEN,Italy
+physicalStore,Zara,3530,45.4904139,9.14685981,MILANO,Mall,OPEN,Italy
+physicalStore,Zara,12859,45.40382728,9.15290946,ASSAGO,Mall,OPEN,Italy
+physicalStore,Zara,9123,45.3926814,9.17427834,ROZZANO,Mall,OPEN,Italy
+physicalStore,Zara,3529,45.5500622,9.25697827,SESTO SAN GIOVANNI,Mall,OPEN,Italy
+physicalStore,Zara,3391,45.545906,9.328046,CARUGATE,Mall,OPEN,Italy
+physicalStore,Zara,3198,45.583913,9.274519,MONZA,Street,OPEN,Italy
+physicalStore,Zara,6437,45.5638677,9.0506768,ARESE,Mall,OPEN,Italy
+physicalStore,Zara,3399,45.622649,9.47582612,CORNATE D'ADDA,Mall,OPEN,Italy
+physicalStore,Zara,11557,-36.910137,174.84232,AUCKLAND,Mall,OPEN,New Zealand
+physicalStore,Zara,16262,-5.1592897,119.394206,SULAWESI SELATAN,Mall,OPEN,Indonesia
+physicalStore,Zara,7032,-30.02392222,-51.16333055,PORTO ALEGRE,Mall,OPEN,Brazil
+physicalStore,Zara,3931,11.013208,-74.8276,BARRANQUILLA,Mall,OPEN,Colombia
+physicalStore,Zara,6412,35.894078,139.951012,KASHIWA,Mall,OPEN,Japan
+physicalStore,Zara,3217,50.9964118,-114.0735729,CALGARY,Mall,OPEN,Canada
+physicalStore,Zara,11854,51.0843425,-114.1556034,CALGARY,Mall,OPEN,Canada
+physicalStore,Zara,10277,-1.388944,-48.464681999999996,BELEM,Mall,OPEN,Brazil
+physicalStore,Zara,1249,-34.940635,138.641889,ADELAIDE,Mall,OPEN,Australia
+physicalStore,Zara,320,41.8276,-71.4167,PROVIDENCE,Mall,OPEN,United States
+physicalStore,Zara,6646,-32.92661083,-60.66922465,ROSARIO,Mall,OPEN,Argentina
+physicalStore,Zara,301,41.1476,-8.606509,PORTO,Street,OPEN,Portugal
+physicalStore,Zara,13558,41.140713,-8.635375,VILA NOVA DE GAIA,Mall,OPEN,Portugal
+physicalStore,Zara,3432,41.16321,-8.5845,PORTO,Mall,OPEN,Portugal
+physicalStore,Zara,3028,41.18068,-8.655376,MATOSINHOS,Mall,OPEN,Portugal
+physicalStore,Zara,379,41.11723,-8.62237,VILA NOVA DE GAIA,Mall,OPEN,Portugal
+physicalStore,Zara,3258,41.17363,-8.56604,GONDOMAR,Mall,OPEN,Portugal
+physicalStore,Zara,3911,41.208332,-8.688254,MATOSINHOS,Mall,OPEN,Portugal
+physicalStore,Zara,3285,53.34949166,-6.26198055,DUBLIN,Street,OPEN,Ireland
+physicalStore,Zara,3367,53.28709,-6.2419305,DUBLIN,Mall,OPEN,Ireland
+physicalStore,Zara,13937,53.35385,-6.390016,DUBLIN,Mall,OPEN,Ireland
+physicalStore,Zara,3394,53.392056,-6.3869166,DUBLIN,Mall,OPEN,Ireland
+physicalStore,Zara,3831,53.45387777,-6.21938888,DUBLIN,Mall,OPEN,Ireland
+physicalStore,Zara,3139,50.85143333,4.35458888,BRUXELLES,Street,OPEN,Belgium
+physicalStore,Zara,3193,50.85426,4.35835,BRUXELLES,Mall,OPEN,Belgium
+physicalStore,Zara,1491,50.836504,4.357466,BRUXELLES,Street,OPEN,Belgium
+physicalStore,Zara,3824,50.83696,4.36243,BRUXELLES,Street,OPEN,Belgium
+physicalStore,Zara,11692,50.87953,4.37394,BRUXELLES,Mall,OPEN,Belgium
+physicalStore,Zara,3141,50.837864,4.2854276,ANDERLECHT,Mall,OPEN,Belgium
+physicalStore,Zara,16371,50.84742,4.43817,WOLUWE-SAINT-LAMBERT,Mall,OPEN,Belgium
+physicalStore,Zara,3743,50.71977,4.398,WATERLOO,Street,OPEN,Belgium
+physicalStore,Zara,9732,50.938584,4.036759,AALST,Street,OPEN,Belgium
+physicalStore,Zara,392,50.88041388,4.71044166,LEUVEN,Street,OPEN,Belgium
+physicalStore,Zara,3542,50.67133,4.61679,LOUVAIN-LA-NEUVE,Mall,OPEN,Belgium
+physicalStore,Zara,6216,37.264538,126.9975,SUWON,Mall,OPEN,South Korea
+physicalStore,Zara,16417,37.287605,126.99137,SUWON,Mall,OPEN,South Korea
+physicalStore,Zara,7025,-22.892624,-47.027609,CAMPINAS,Mall,OPEN,Brazil
+physicalStore,Zara,7026,-22.84521,-47.06412,CAMPINAS,Mall,OPEN,Brazil
+physicalStore,Zara,9089,34.39464,132.499795,HIROSHIMA,Mall,OPEN,Japan
+physicalStore,Zara,4940,18.807051100000002,99.0184143,CHIANG MAI,Mall,OPEN,Thailand
+physicalStore,Zara,3894,44.8155,20.43708,BELGRADE,Mall,OPEN,Serbia
+physicalStore,Zara,13516,44.802519000000004,20.446085,BELGRADE,Mall,OPEN,Serbia
+physicalStore,Zara,3540,44.80152,20.4744,BELGRADE,Street,OPEN,Serbia
+physicalStore,Zara,6636,44.81679,20.507599,BELGRADE,Mall,OPEN,Serbia
+physicalStore,Zara,3757,44.805483,20.40513,BELGRADE,Mall,OPEN,Serbia
+physicalStore,Zara,11544,29.31233,120.06843,YIWU,Mall,OPEN,Mainland China
+physicalStore,Zara,3102,25.334342,51.467049,DOHA,Mall,OPEN,Qatar
+physicalStore,Zara,3676,25.2594781,51.4440249,DOHA,Mall,OPEN,Qatar
+physicalStore,Zara,12260,25.404497,51.52043,LUSAIL,Mall,OPEN,Qatar
+physicalStore,Zara,11881,25.384084,51.441952,DOHA,Mall,OPEN,Qatar
+physicalStore,Zara,11721,25.325831,51.350082,DOHA,Mall,OPEN,Qatar
+physicalStore,Zara,13776,36.10698,-86.81745,NASHVILLE,Mall,OPEN,United States
+physicalStore,Zara,11913,40.6360677,-111.8856863,MURRAY,Mall,OPEN,United States
+physicalStore,Zara,3967,53.4847792,-113.51494220000001,EDMONTON,Mall,OPEN,Canada
+physicalStore,Zara,3381,53.5228386,-113.622026,EDMONTON,Mall,OPEN,Canada
+physicalStore,Zara,9047,35.538203,129.338686,ULSAN,Mall,OPEN,South Korea
+physicalStore,Zara,3979,18.472054,-69.9412,SANTO DOMINGO DE GUZMAN,Mall,OPEN,Dominican Republic
+physicalStore,Zara,9197,18.483639,-69.93915,SANTO DOMINGO DE GUZMAN,Mall,OPEN,Dominican Republic
+physicalStore,Zara,9308,41.702444,44.793215000000004,TBILISI,Street,OPEN,Georgia
+physicalStore,Zara,12976,41.724026,44.73604,TBILISI,Mall,OPEN,Georgia
+physicalStore,Zara,6391,41.689789,44.898212,TBILISI,Mall,OPEN,Georgia
+physicalStore,Zara,9270,41.81641,44.77212,TBILISI,Mall,OPEN,Georgia
+physicalStore,Zara,16231,37.392807,-5.9962209,SEVILLA,Street,OPEN,Spain
+physicalStore,Zara,147,37.38465,-5.97247,SEVILLA,Mall,OPEN,Spain
+physicalStore,Zara,236,37.385047,-6.047131,CASTILLEJA DE LA CUESTA,Mall,OPEN,Spain
+physicalStore,Zara,12389,37.33862,-5.9764,SEVILLA,Mall,OPEN,Spain
+physicalStore,Zara,3071,50.936597,6.950907,KÖLN,Street,OPEN,Germany
+physicalStore,Zara,3514,50.938203,6.833968,KÖLN,Mall,OPEN,Germany
+physicalStore,Zara,14876,51.1329177,71.40310096,ASTANA,Mall,OPEN,Kazakhstan
+physicalStore,Zara,6610,51.088657,71.40641,ASTANA,Mall,OPEN,Kazakhstan
+physicalStore,Zara,13930,36.995109,127.145748,ANSEONG,Mall,OPEN,South Korea
+physicalStore,Zara,6407,40.180086,44.48817,EREVAN,Mall,OPEN,Armenia
+physicalStore,Zara,4845,40.155556,44.49922,EREVAN,Mall,OPEN,Armenia
+physicalStore,Zara,9036,45.426169,-75.6902523,OTTAWA,Mall,OPEN,Canada
+physicalStore,Zara,6447,45.347363,-75.8058424,OTTAWA,Mall,OPEN,Canada
+physicalStore,Zara,12786,59.912824,10.742188,OSLO,Street,OPEN,Norway
+physicalStore,Zara,3402,59.9250861,10.723219199999999,OSLO,Street,OPEN,Norway
+physicalStore,Zara,12212,59.887548,10.522117,SANDVIKA,Mall,OPEN,Norway
+physicalStore,Zara,3536,38.26062,140.87217,SENDAI,Street,OPEN,Japan
+physicalStore,Zara,1424,30.706054,76.800704,CHANDIGARH,Mall,OPEN,India
+physicalStore,Zara,10904,12.10382934,-86.24904197000001,MANAGUA,Mall,OPEN,Nicaragua
+physicalStore,Zara,3067,19.6889166,-101.1580908,MORELIA,Mall,OPEN,Mexico
+physicalStore,Zara,9303,35.224107000000004,128.682818,CHANGWON,Mall,OPEN,South Korea
+physicalStore,Zara,3718,44.840635,-0.57411,BORDEAUX,Street,OPEN,France
+physicalStore,Zara,3481,44.87998,-0.56461,BORDEAUX,Mall,OPEN,France
+physicalStore,Zara,12490,44.79455,-0.531185,BEGLES,Mall,OPEN,France
+physicalStore,Zara,9276,44.828199,-0.6590453,MERIGNAC,Mall,OPEN,France
+physicalStore,Zara,44,36.719613,-4.42239,MALAGA,Street,OPEN,Spain
+physicalStore,Zara,136,36.716164,-4.4318,MALAGA,Mall,OPEN,Spain
+physicalStore,Zara,291,36.656714,-4.478796,MALAGA,Mall,OPEN,Spain
+physicalStore,Zara,177,36.53868055,-4.62481944,FUENGIROLA,Street,OPEN,Spain
+physicalStore,Zara,233,36.52835083,-4.63184976,FUENGIROLA,Mall,OPEN,Spain
+physicalStore,Zara,181,36.755478,-4.100507,VELEZ-MALAGA,Mall,OPEN,Spain
+physicalStore,Zara,3627,31.629999,-8.0,MARRAKECH,Street,OPEN,Morocco
+physicalStore,Zara,9128,10.3177868,123.9051104,CEBU CITY,Mall,OPEN,Philippines
+physicalStore,Zara,12082,35.77548,-5.804121,TANGER,Street,OPEN,Morocco
+physicalStore,Zara,11772,42.914453,-78.762997,BUFFALO,Mall,OPEN,United States
+physicalStore,Zara,367,31.778444,35.223907,JERUSALEM,Mall,OPEN,Israel
+physicalStore,Zara,3012,31.75149726,35.1872406,JERUSALEM,Mall,OPEN,Israel
+physicalStore,Zara,13763,33.885337,130.88249,KITAKYUSYU,Mall,OPEN,Japan
+physicalStore,Zara,3601,21.92435,-102.28896,AGUASCALIENTES,Mall,OPEN,Mexico
+physicalStore,Zara,11853,30.00591,-90.15692,METAIRIE,Mall,OPEN,United States
+physicalStore,Zara,12681,56.924254,24.175358,RIGA,Mall,OPEN,Latvia
+physicalStore,Zara,3711,56.930447,24.035082,RIGA,Mall,OPEN,Latvia
+physicalStore,Zara,3749,56.983402,24.203266,RIGA,Mall,OPEN,Latvia
+physicalStore,Zara,3590,40.83863,14.24842,NAPOLI,Street,OPEN,Italy
+physicalStore,Zara,3535,40.84379,14.230250999999999,NAPOLI,Street,OPEN,Italy
+physicalStore,Zara,3400,40.933334,14.148784,GIUGLIANO IN CAMPANIA,Mall,OPEN,Italy
+physicalStore,Zara,3257,41.003577,14.326537,MARCIANISE,Mall,OPEN,Italy
+physicalStore,Zara,3636,40.94912,14.488389999999999,NOLA,Mall,OPEN,Italy
+physicalStore,Zara,12734,41.10485785,-73.41805805999999,NORWALK,Mall,OPEN,United States
+physicalStore,Zara,13613,26.3913173,50.0352488,DAMMAM,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,3403,26.306568,50.170498,DHAHRAN,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,3317,26.287272,50.219228,AL-KHOBAR,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,12108,21.0395519,-89.6309674,MERIDA,Mall,OPEN,Mexico
+physicalStore,Zara,12749,21.0565467,-89.5963581,MERIDA,Mall,OPEN,Mexico
+physicalStore,Zara,3506,21.147034,-86.823204,CANCUN,Mall,OPEN,Mexico
+physicalStore,Zara,10705,21.1604057,-86.808577,CANCUN,Mall,OPEN,Mexico
+physicalStore,Zara,3041,21.1016,-86.765121,CANCUN,Mall,OPEN,Mexico
+physicalStore,Zara,3163,28.622656,-106.1150739,CHIHUAHUA,Mall,OPEN,Mexico
+physicalStore,Zara,3995,43.305496,5.365266,MARSEILLE,Mall,OPEN,France
+physicalStore,Zara,393,43.29297,5.3787,MARSEILLE,Street,OPEN,France
+physicalStore,Zara,12674,43.27013,5.39355,MARSEILLE,Mall,OPEN,France
+physicalStore,Zara,397,43.363762,5.347729,MARSEILLE,Mall,OPEN,France
+physicalStore,Zara,3192,43.29116261,5.47738141,MARSEILLE,Mall,OPEN,France
+physicalStore,Zara,9215,43.42062,5.3623,CABRIES,Mall,OPEN,France
+physicalStore,Zara,3705,43.526568,5.443645,AIX-EN-PROVENCE,Mall,OPEN,France
+physicalStore,Zara,3739,39.78246,30.510483,ESKIŞEHIR,Mall,OPEN,Turkey
+physicalStore,Zara,3302,24.81547,-107.40072,CULIACAN,Mall,OPEN,Mexico
+physicalStore,Zara,16005,24.788338,-107.441826,CULIACAN,Mall,OPEN,Mexico
+physicalStore,Zara,3644,50.90510833,-1.40661388,SOUTHAMPTON,Mall,OPEN,United Kingdom
+physicalStore,Zara,6411,36.642959,127.427324,CHEONGJU,Mall,OPEN,South Korea
+physicalStore,Zara,3306,45.065378,7.680435,TORINO,Street,OPEN,Italy
+physicalStore,Zara,3214,45.05588714,7.61189427,GRUGLIASCO,Mall,OPEN,Italy
+physicalStore,Zara,6308,-8.71685948,115.1693774,BALI,Mall,OPEN,Indonesia
+physicalStore,Zara,3939,34.505522,135.763056,KASHIHARA,Mall,OPEN,Japan
+physicalStore,Zara,6496,50.06128782,19.93881561,KRAKÓW,Street,OPEN,Poland
+physicalStore,Zara,3688,50.06621465,19.94563213,KRAKÓW,Mall,OPEN,Poland
+physicalStore,Zara,3437,50.05340787,19.956621300000002,KRAKÓW,Mall,OPEN,Poland
+physicalStore,Zara,9065,50.02766,19.952528,KRAKÓW,Mall,OPEN,Poland
+physicalStore,Zara,3609,50.0875443,19.985746990000003,KRAKÓW,Mall,OPEN,Poland
+physicalStore,Zara,1332,40.647055,22.920254,THESSALONIKI,Mall,OPEN,Greece
+physicalStore,Zara,382,40.633061,22.9425,THESSALONIKI,Street,OPEN,Greece
+physicalStore,Zara,3905,40.632462,22.94327,THESSALONIKI,Street,OPEN,Greece
+physicalStore,Zara,3495,40.557178,22.992368,PYLEA,Mall,OPEN,Greece
+physicalStore,Zara,3277,20.577888,-100.4056765,QUERETARO,Mall,OPEN,Mexico
+physicalStore,Zara,12746,20.631552,-100.35951,QUERETARO,Mall,OPEN,Mexico
+physicalStore,Zara,6425,20.67458,-100.43592,QUERETARO,Mall,OPEN,Mexico
+physicalStore,Zara,12210,26.1871,-98.23636,MC ALLEN,Mall,OPEN,United States
+physicalStore,Zara,9037,15.496663,-88.03621,SAN PEDRO SULA,Mall,OPEN,Honduras
+physicalStore,Zara,6463,40.8230973,-73.4109466,HUNTINGTON STATION,Mall,OPEN,United States
+physicalStore,Zara,6453,37.916557,139.056792,NIIGATA,Mall,OPEN,Japan
+physicalStore,Zara,3956,34.75039,137.84173,IWATA,Mall,OPEN,Japan
+physicalStore,Zara,3172,53.79646666,-1.542125,LEEDS,Street,OPEN,United Kingdom
+physicalStore,Zara,3533,53.75863611,-1.57422222,LEEDS,Mall,OPEN,United Kingdom
+physicalStore,Zara,11931,43.262012,-2.931458,BILBAO,Street,OPEN,Spain
+physicalStore,Zara,120,43.289153999999996,-3.008237,BARAKALDO,Mall,OPEN,Spain
+physicalStore,Zara,149,43.3427,-2.98976,LEIOA,Mall,OPEN,Spain
+physicalStore,Zara,3560,50.115033,8.676925,FRANKFURT,Street,OPEN,Germany
+physicalStore,Zara,1411,50.108834,8.652227,FRANKFURT,Mall,OPEN,Germany
+physicalStore,Zara,6639,50.1575,8.633452,FRANKFURT,Mall,OPEN,Germany
+physicalStore,Zara,3138,50.122779,8.526249,SULZBACH,Mall,OPEN,Germany
+physicalStore,Zara,3369,49.871572,8.652442,DARMSTADT,Street,OPEN,Germany
+physicalStore,Zara,16390,22.114781999999998,-100.985211,SAN LUIS POTOSI,Mall,OPEN,Mexico
+physicalStore,Zara,1281,22.127438,-101.03019,SAN LUIS POTOSI,Mall,OPEN,Mexico
+physicalStore,Zara,3934,45.813139,15.971907999999999,ZAGREB,Street,OPEN,Croatia
+physicalStore,Zara,3730,45.77663888,15.97897222,ZAGREB,Mall,OPEN,Croatia
+physicalStore,Zara,3974,45.770496,15.940173,ZAGREB,Mall,OPEN,Croatia
+physicalStore,Zara,1419,45.800503,16.049374,ZAGREB,Mall,OPEN,Croatia
+physicalStore,Zara,12145,45.79954,15.88468,ZAGREB,Mall,OPEN,Croatia
+physicalStore,Zara,16280,49.8838858,-97.19920527,WINNIPEG,Mall,OPEN,Canada
+physicalStore,Zara,6483,-5.81201,-35.206686,NATAL,Mall,OPEN,Brazil
+physicalStore,Zara,11723,-25.782588,28.276307,PRETORIA,Mall,OPEN,South Africa
+physicalStore,Zara,12905,32.7387,130.7417,KUMAMOTO,Mall,OPEN,Japan
+physicalStore,Zara,3158,46.7730051,-71.2797284,QUEBEC,Mall,OPEN,Canada
+physicalStore,Zara,3170,52.9534,-1.14768611,NOTTINGHAM,Street,OPEN,United Kingdom
+physicalStore,Zara,3565,52.92023888,-1.47285833,DERBY,Mall,OPEN,United Kingdom
+physicalStore,Zara,616,43.325789,-79.820555,BURLINGTON,Mall,OPEN,Canada
+physicalStore,Zara,6475,-23.53456,-47.46275,SOROCABA,Mall,OPEN,Brazil
+physicalStore,Zara,1298,34.66251,133.91672,OKAYAMA,Mall,OPEN,Japan
+physicalStore,Zara,7048,-36.79227514,-73.0658091,TALCAHUANO,Mall,OPEN,Chile
+physicalStore,Zara,4900,49.850299,24.022364,LVIV,Mall,OPEN,Ukraine
+physicalStore,Zara,9081,49.77355957,24.0133247,SOKILNYKY,Mall,OPEN,Ukraine
+physicalStore,Zara,3617,54.710938,25.26126,VILNIUS,Mall,OPEN,Lithuania
+physicalStore,Zara,3618,54.714157,25.275433,VILNIUS,Mall,OPEN,Lithuania
+physicalStore,Zara,3622,51.45861,-2.5849612,BRISTOL,Mall,OPEN,United Kingdom
+physicalStore,Zara,14877,51.378308,-2.359533,BATH,Mall,OPEN,United Kingdom
+physicalStore,Zara,7071,-23.199724,-45.88159,SAO JOSE DOS CAMPOS,Mall,OPEN,Brazil
+physicalStore,Zara,7052,-21.211659,-47.815455,RIBEIRAO PRETO,Mall,OPEN,Brazil
+physicalStore,Zara,9320,34.98453,138.41055,SHIZOUKA,Mall,OPEN,Japan
+physicalStore,Zara,65,41.645803,-0.884767,ZARAGOZA,Street,OPEN,Spain
+physicalStore,Zara,1224,41.609707,-0.88456,ZARAGOZA,Mall,OPEN,Spain
+physicalStore,Zara,9717,41.649619,-0.987396,ZARAGOZA,Street,PROVISIONAL,Spain
+physicalStore,Zara,12153,51.0967646,17.03359983,WROCŁAW,Mall,OPEN,Poland
+physicalStore,Zara,3775,51.11900276,16.98972507,WROCŁAW,Mall,OPEN,Poland
+physicalStore,Zara,39,37.98974,-1.131916,MURCIA,Street,OPEN,Spain
+physicalStore,Zara,275,38.038948,-1.148779,MURCIA,Mall,OPEN,Spain
+physicalStore,Zara,3537,51.77887,19.444828,ŁÓDŹ,Mall,OPEN,Poland
+physicalStore,Zara,9149,51.70325915,19.41220233,ŁÓDŹ,Mall,OPEN,Poland
+physicalStore,Zara,14965,51.91981941,4.48052996,ROTTERDAM,Street,OPEN,Netherlands
+physicalStore,Zara,12286,51.88686044,4.489639,ROTTERDAM,Mall,OPEN,Netherlands
+physicalStore,Zara,3883,51.95081406,4.55284594,ROTTERDAM,Mall,OPEN,Netherlands
+physicalStore,Zara,13583,52.08813016,4.38455458,LEIDSCHENDAM-VOORBURG,Mall,OPEN,Netherlands
+physicalStore,Zara,3714,52.07673,4.310911,DEN HAAG,Street,OPEN,Netherlands
+physicalStore,Zara,12310,52.160503,4.489766,LEIDEN,Street,OPEN,Netherlands
+physicalStore,Zara,14733,25.329702,49.549072,HOFUF,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,3265,33.69083,-117.8889,COSTA MESA,Mall,OPEN,United States
+physicalStore,Zara,16088,30.3890539,-91.08793617,BATON ROUGE,Street,OPEN,United States
+physicalStore,Zara,3879,26.2333092,50.5533476,MANAMA,Mall,OPEN,Bahrain
+physicalStore,Zara,16248,26.303617,50.64267,MUHARRAQ,Mall,OPEN,Bahrain
+physicalStore,Zara,3406,38.122182,13.357355,PALERMO,Street,OPEN,Italy
+physicalStore,Zara,16053,38.089054000000004,13.411277,PALERMO,Mall,OPEN,Italy
+physicalStore,Zara,1229,38.1851448,13.307641,PALERMO,Mall,OPEN,Italy
+physicalStore,Zara,3463,51.225889,6.773694,DÜSSELDORF,Street,OPEN,Germany
+physicalStore,Zara,3312,51.222166,6.779702,DÜSSELDORF,Street,OPEN,Germany
+physicalStore,Zara,6640,51.432198,6.771227,DUISBURG,Mall,OPEN,Germany
+physicalStore,Zara,14771,51.1951778,6.4389861,MÖNCHENGLADBACH,Mall,OPEN,Germany
+physicalStore,Zara,3290,51.490055,6.880167,OBERHAUSEN,Mall,OPEN,Germany
+physicalStore,Zara,14741,51.457504,7.0099635,ESSEN,Mall,OPEN,Germany
+physicalStore,Zara,3226,55.85850277,-4.254375,GLASGOW,Street,OPEN,United Kingdom
+physicalStore,Zara,3845,55.823254,-4.3428974,GLASGOW,Mall,OPEN,United Kingdom
+physicalStore,Zara,14083,55.872974,-4.136889,GLASGOW,Mall,OPEN,United Kingdom
+physicalStore,Zara,3274,51.339473,12.374618,LEIPZIG,Street,OPEN,Germany
+physicalStore,Zara,3371,59.436543,24.754988,TALLINN,Mall,OPEN,Estonia
+physicalStore,Zara,9291,59.422356,24.795099999999998,TALLINN,Mall,OPEN,Estonia
+physicalStore,Zara,3147,36.883088,30.659881,ANTALYA,Mall,OPEN,Turkey
+physicalStore,Zara,9094,36.85271173,30.75622276,ANTALYA,Mall,OPEN,Turkey
+physicalStore,Zara,3603,57.70660375,11.96930566,GOTEBORG,Mall,OPEN,Sweden
+physicalStore,Zara,11545,-28.035892,153.428232,GOLD COAST,Mall,OPEN,Australia
+physicalStore,Zara,3804,36.7995472,10.1818342,TUNIS,Street,OPEN,Tunisia
+physicalStore,Zara,16281,36.83152,10.209024,TUNIS,Mall,OPEN,Tunisia
+physicalStore,Zara,1390,36.8476503,10.2789857,TUNIS,Mall,OPEN,Tunisia
+physicalStore,Zara,3556,36.900661,10.123236,ARIANA,Mall,OPEN,Tunisia
+physicalStore,Zara,3058,32.78972,35.00783,HAIFA,Mall,OPEN,Israel
+physicalStore,Zara,3070,32.78961944,35.0076866,HAIFA,Mall,OPEN,Israel
+physicalStore,Zara,3311,51.51438972,7.4643868,DORTMUND,Street,OPEN,Germany
+physicalStore,Zara,6285,51.49485,7.283643,BOCHUM,Mall,OPEN,Germany
+physicalStore,Zara,9196,4.806792,-75.68375,PEREIRA,Mall,OPEN,Colombia
+physicalStore,Zara,11773,42.6887156,-73.8484947,ALBANY,Mall,OPEN,United States
+physicalStore,Zara,9152,-6.88922539,107.5967043,BANDUNG,Mall,OPEN,Indonesia
+physicalStore,Zara,12083,-6.91466783,107.5941995,BANDUNG,Mall,OPEN,Indonesia
+physicalStore,Zara,10618,21.2770675,40.4426238,TAIF,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,1121,53.047844,8.957205,BREMEN,Mall,OPEN,Germany
+physicalStore,Zara,3776,22.14957237,113.56056975999999,MACAO,Mall,OPEN,Macau S.A.R
+physicalStore,Zara,3206,51.045948,13.733820999999999,DRESDEN,Mall,OPEN,Germany
+physicalStore,Zara,3254,44.406499,8.93835497,GENOVA,Street,OPEN,Italy
+physicalStore,Zara,14773,44.412617,8.881878,GENOVA,Mall,OPEN,Italy
+physicalStore,Zara,7056,-23.34286,-51.18367,LONDRINA,Mall,OPEN,Brazil
+physicalStore,Zara,64,39.570797,2.646589,PALMA DE MALLORCA,Street,OPEN,Spain
+physicalStore,Zara,130,39.5742595,2.6557149,PALMA DE MALLORCA,Street,OPEN,Spain
+physicalStore,Zara,125,39.551,2.6201138,PALMA DE MALLORCA,Mall,OPEN,Spain
+physicalStore,Zara,334,38.73289,-9.14561,LISBOA,Street,OPEN,Portugal
+physicalStore,Zara,3154,38.73442,-9.15341,LISBOA,Street,OPEN,Portugal
+physicalStore,Zara,6423,38.7236,-9.16339,LISBOA,Mall,OPEN,Portugal
+physicalStore,Zara,383,38.71087,-9.13977,LISBOA,Street,OPEN,Portugal
+physicalStore,Zara,3061,38.71103,-9.13796,LISBOA,Street,OPEN,Portugal
+physicalStore,Zara,3019,38.75519,-9.18858,LISBOA,Mall,OPEN,Portugal
+physicalStore,Zara,3783,38.72863,-9.21977,OEIRAS,Mall,OPEN,Portugal
+physicalStore,Zara,3056,38.76706,-9.09631,LISBOA,Mall,OPEN,Portugal
+physicalStore,Zara,3875,38.77529,-9.22024,AMADORA,Mall,OPEN,Portugal
+physicalStore,Zara,3434,38.83443,-9.15595,LOURES,Mall,OPEN,Portugal
+physicalStore,Zara,3563,38.61322,-9.11232,SEIXAL,Mall,OPEN,Portugal
+physicalStore,Zara,3029,38.70521,-9.30267,OEIRAS,Mall,OPEN,Portugal
+physicalStore,Zara,3981,38.77463,-9.33891,SINTRA,Mall,OPEN,Portugal
+physicalStore,Zara,3253,38.6940845,-8.9408675,MONTIJO,Mall,OPEN,Portugal
+physicalStore,Zara,309,38.73865,-9.398804,CASCAIS,Mall,OPEN,Portugal
+physicalStore,Zara,3230,53.48384722,-2.24521666,MANCHESTER,Street,OPEN,United Kingdom
+physicalStore,Zara,3085,53.466366,-2.3468611,MANCHESTER,Mall,OPEN,United Kingdom
+physicalStore,Zara,3247,52.401707,16.928455,POZNAŃ,Mall,OPEN,Poland
+physicalStore,Zara,1418,52.39697237,16.95506026,POZNAŃ,Mall,OPEN,Poland
+physicalStore,Zara,3167,52.373569,9.737234,HANNOVER,Street,OPEN,Germany
+physicalStore,Zara,7045,-27.590173,-48.51507,FLORIANOPOLIS,Mall,OPEN,Brazil
+physicalStore,Zara,376,51.21803888,4.40895833,ANTWERPEN,Street,OPEN,Belgium
+physicalStore,Zara,340,51.223503,4.503522,WIJNEGEM,Mall,OPEN,Belgium
+physicalStore,Zara,11729,51.153378000000004,4.154182,SINT-NIKLAAS,Mall,OPEN,Belgium
+physicalStore,Zara,10731,37.89535,-122.05829,WALNUT CREEK,Mall,OPEN,United States
+physicalStore,Zara,13517,41.99743,21.451199,SKOPJE,Mall,OPEN,Macedonia
+physicalStore,Zara,6400,42.004494,21.391357,SKOPJE,Mall,OPEN,Macedonia
+physicalStore,Zara,3107,49.4513788,11.0740359,NÜRNBERG,Street,OPEN,Germany
+physicalStore,Zara,3490,45.763833,4.834322,LYON,Street,OPEN,France
+physicalStore,Zara,342,45.767509000000004,4.836025,LYON,Street,OPEN,France
+physicalStore,Zara,374,45.76187,4.857437,LYON,Mall,OPEN,France
+physicalStore,Zara,1279,45.74159,4.8159943,LYON,Mall,OPEN,France
+physicalStore,Zara,331,45.789186,4.7758074,ECULLY,Mall,OPEN,France
+physicalStore,Zara,7051,-20.312598,-40.287738,VITORIA,Mall,OPEN,Brazil
+physicalStore,Zara,3852,36.494199,139.910127,UTSUNOMIYIA,Mall,OPEN,Japan
+physicalStore,Zara,3240,53.41304,-1.4124612,SHEFFIELD,Mall,OPEN,United Kingdom
+physicalStore,Zara,3889,53.4033299,-2.9873529,LIVERPOOL,Mall,OPEN,United Kingdom
+physicalStore,Zara,3345,53.19057777,-2.89136944,CHESTER,Street,OPEN,United Kingdom
+physicalStore,Zara,12496,52.635914,-1.1371111,LEICESTER,Mall,OPEN,United Kingdom
+physicalStore,Zara,394,43.60212,1.44566,TOULOUSE,Street,OPEN,France
+physicalStore,Zara,3717,43.6050086,1.4456446,TOULOUSE,Street,OPEN,France
+physicalStore,Zara,3873,43.643684,1.373001,BLAGNAC,Mall,OPEN,France
+physicalStore,Zara,3708,43.551353,1.506444,LÀBEGE,Mall,OPEN,France
+physicalStore,Zara,3982,43.51468,1.3713,ROQUES-SUR-GARONNE,Mall,OPEN,France
+physicalStore,Zara,3485,40.54811215,-74.33504238,EDISON,Mall,OPEN,United States
+physicalStore,Zara,12678,51.479107,-3.17462,CARDIFF,Mall,OPEN,United Kingdom
+physicalStore,Zara,13522,55.955223000000004,-3.18847,EDINBURGH,Mall,OPEN,United Kingdom
+physicalStore,Zara,6365,54.3494463,18.64352838,GDAŃSK,Mall,OPEN,Poland
+physicalStore,Zara,3793,54.383114,18.600251999999998,GDAŃSK,Mall,OPEN,Poland
+physicalStore,Zara,1289,54.50515268,18.5325737,GDYNIA,Mall,OPEN,Poland
+physicalStore,Zara,7100,-20.86631,-49.414771,S. JOSE DO RIO PRETO,Mall,OPEN,Brazil
+physicalStore,Zara,3134,35.909295,14.505225,SLIEMA,Mall,OPEN,Malta
+physicalStore,Zara,10936,-25.283836,-57.563891,ASUNCION,Mall,OPEN,Paraguay
+physicalStore,Zara,3726,48.133854,17.106175999999998,BRATISLAVA,Mall,OPEN,Slovakia
+physicalStore,Zara,12763,48.147348300000004,17.1274175,BRATISLAVA,Mall,OPEN,Slovakia
+physicalStore,Zara,12889,48.166916,17.180063,BRATISLAVA,Mall,OPEN,Slovakia
+physicalStore,Zara,10615,27.004032,49.660304,JUBAIL,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,12666,50.82299,-0.145698,BRIGHTON,Mall,OPEN,United Kingdom
+physicalStore,Zara,3558,26.366757,43.962127,BURAYDAH,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,12041,36.395209,136.466668,KOMATSU,Mall,OPEN,Japan
+physicalStore,Zara,6498,33.8620646,-118.0943209,CERRITOS,Mall,OPEN,United States
+physicalStore,Zara,6403,33.833405,-118.3493852,TORRANCE,Mall,OPEN,United States
+physicalStore,Zara,1413,47.373744,8.538445,ZURICH,Street,OPEN,Switzerland
+physicalStore,Zara,3273,47.37424166,8.53766111,ZURICH,Street,OPEN,Switzerland
+physicalStore,Zara,3682,47.358025,8.52326666,ZURICH,Mall,OPEN,Switzerland
+physicalStore,Zara,3323,47.40898699,8.595697,WALLISELLEN,Mall,OPEN,Switzerland
+physicalStore,Zara,6452,47.422629,8.369326,SPREITENBACH,Mall,OPEN,Switzerland
+physicalStore,Zara,9092,47.498914,8.723295,WINTERTHUR,Mall,OPEN,Switzerland
+physicalStore,Zara,11809,44.6487624,-63.618571,HALIFAX,Mall,OPEN,Canada
+physicalStore,Zara,12466,37.69515,-121.9287,PLEASANTON,Mall,OPEN,United States
+physicalStore,Zara,3782,19.139335199999998,-96.1024282,VERACRUZ,Mall,OPEN,Mexico
+physicalStore,Zara,9167,36.086113,140.084841,TSUKUBA,Mall,OPEN,Japan
+physicalStore,Zara,3980,41.44953,-8.3418,GUIMARAES,Mall,OPEN,Portugal
+physicalStore,Zara,9068,41.55705,-8.4063,BRAGA,Mall,OPEN,Portugal
+physicalStore,Zara,306,41.55002,-8.42234,BRAGA,Street,OPEN,Portugal
+physicalStore,Zara,3568,19.5126768,-96.8768832,XALAPA,Mall,OPEN,Mexico
+physicalStore,Zara,11605,43.02523,-81.2796,LONDON,Mall,OPEN,Canada
+physicalStore,Zara,14525,34.93651,137.16423,OKAZAKI,Mall,OPEN,Japan
+physicalStore,Zara,3641,30.42,-9.609999,AGADIR,Mall,OPEN,Morocco
+physicalStore,Zara,9331,43.855368,18.407892,SARAJEVO,Mall,OPEN,Bosnia and Herzegovina
+physicalStore,Zara,4843,41.283084,19.856846,TIRANA,Mall,OPEN,Albania
+physicalStore,Zara,1488,35.455147,136.672773,MOTOSU,Mall,OPEN,Japan
+physicalStore,Zara,3539,49.1962128,16.6064397,BRNO,Street,OPEN,Czech Republic
+physicalStore,Zara,3707,54.891006,23.917816000000002,KAUNAS,Mall,OPEN,Lithuania
+physicalStore,Zara,3199,44.495521,11.342759000000001,BOLOGNA,Street,OPEN,Italy
+physicalStore,Zara,3456,44.498017,11.343459,BOLOGNA,Street,OPEN,Italy
+physicalStore,Zara,12962,44.48883,11.249397,CASALECCHIO DI RENO,Mall,OPEN,Italy
+physicalStore,Zara,7079,-35.278872,149.134222,CANBERRA,Mall,OPEN,Australia
+physicalStore,Zara,12637,45.244648,19.842066000000003,NOVI SAD,Mall,OPEN,Serbia
+physicalStore,Zara,6405,36.389896,139.006897,TAKASAKI,Mall,OPEN,Japan
+physicalStore,Zara,9887,34.1842709,-118.8878316,THOUSAND OAKS,Mall,OPEN,United States
+physicalStore,Zara,3340,43.771072000000004,11.254506,FIRENZE,Street,OPEN,Italy
+physicalStore,Zara,3398,43.84573,11.1425,CAMPI BISENZIO,Mall,OPEN,Italy
+physicalStore,Zara,6489,55.563606,12.973009,MALMO,Mall,OPEN,Sweden
+physicalStore,Zara,9329,52.093195,5.11603721,UTRECHT,Street,OPEN,Netherlands
+physicalStore,Zara,14634,31.062640000000002,121.21825,SHANGHAI,Mall,OPEN,Mainland China
+physicalStore,Zara,1243,17.965754099999998,-92.9402707,VILLAHERMOSA,Mall,OPEN,Mexico
+physicalStore,Zara,219,38.35528,-0.471008,ALICANTE-ALACANT,Mall,OPEN,Spain
+physicalStore,Zara,76,38.34333055,-0.49335555,ALICANTE-ALACANT,Street,OPEN,Spain
+physicalStore,Zara,9723,38.294406,-0.61140309,ELCHE,Street,PROVISIONAL,Spain
+physicalStore,Zara,222,38.26182,-0.721064,ELCHE,Mall,OPEN,Spain
+physicalStore,Zara,3913,43.2175966,27.8974863,VARNA,Mall,OPEN,Bulgaria
+physicalStore,Zara,10285,21.2923184,-157.8461203,HONOLULU,Mall,OPEN,United States
+physicalStore,Zara,390,43.699597,7.268664,NICE,Street,OPEN,France
+physicalStore,Zara,3021,43.658783,7.195353,SAINT LAURENT DU VAR,Mall,OPEN,France
+physicalStore,Zara,1245,43.6648,7.127473,CAGNES-SUR-MER,Mall,OPEN,France
+physicalStore,Zara,3721,43.552348,7.022564,CANNES,Street,OPEN,France
+physicalStore,Zara,3025,43.552363,7.01706,CANNES,Street,OPEN,France
+physicalStore,Zara,12387,42.1446699,24.7820627,PLOVDIV,Mall,OPEN,Bulgaria
+physicalStore,Zara,3171,54.59886666,-5.93035277,BELFAST,Street,OPEN,United Kingdom
+physicalStore,Zara,942,35.058381,136.099373,SHIGA RYUO,Mall,OPEN,Japan
+physicalStore,Zara,3164,25.5820194,-103.4043271,TORREON,Mall,OPEN,Mexico
+physicalStore,Zara,12541,18.934050499999998,-99.1976216,CUERNAVACA,Mall,OPEN,Mexico
+physicalStore,Zara,3151,52.024204,8.532708,BIELEFELD,Street,OPEN,Germany
+physicalStore,Zara,6448,44.0568472,-79.4848639,NEWMARKET,Mall,OPEN,Canada
+physicalStore,Zara,6409,53.11616418,18.01038081,BYDGOSZCZ,Mall,OPEN,Poland
+physicalStore,Zara,3090,51.45364722,-0.97128888,READING,Mall,OPEN,United Kingdom
+physicalStore,Zara,3430,51.48193888,-0.61072222,WINDSOR,Mall,OPEN,United Kingdom
+physicalStore,Zara,11771,43.89127,-78.879988,OSHAWA,Mall,OPEN,Canada
+physicalStore,Zara,6487,51.25024022,22.57646504,LUBLIN,Mall,OPEN,Poland
+physicalStore,Zara,1407,51.23164584,22.615406280000002,LUBLIN,Mall,OPEN,Poland
+physicalStore,Zara,12446,61.492791,23.76862,TAMPERE,Mall,OPEN,Finland
+physicalStore,Zara,12745,-33.00854506,-71.54755,VIÑA DEL MAR,Mall,OPEN,Chile
+physicalStore,Zara,3002,35.1673028,33.3607611,LEFKOSIA,Street,OPEN,Cyprus
+physicalStore,Zara,3790,35.129974,33.37142,LEFKOSIA,Mall,OPEN,Cyprus
+physicalStore,Zara,12891,35.13545,33.27865,LAKATAMIA,Mall,OPEN,Cyprus
+physicalStore,Zara,9004,12.93571666,100.884,PATTAYA,Mall,OPEN,Thailand
+physicalStore,Zara,3919,47.533108,21.628635,DEBRECEN,Mall,OPEN,Hungary
+physicalStore,Zara,70,37.88441388,-4.78131666,CORDOBA,Street,OPEN,Spain
+physicalStore,Zara,179,37.896226,-4.791112,CORDOBA,Mall,OPEN,Spain
+physicalStore,Zara,3024,47.215983,-1.557457,NANTES,Street,OPEN,France
+physicalStore,Zara,3190,47.22342,-1.63167,SAINT HERBLAIN,Mall,OPEN,France
+physicalStore,Zara,3547,51.960769,7.626872,MÜNSTER,Mall,OPEN,Germany
+physicalStore,Zara,3685,13.677023,-89.25455,ANTIGUO CUSCATLAN,Mall,OPEN,El Salvador
+physicalStore,Zara,12924,26.26323,127.69968,OKINAWA,Mall,OPEN,Japan
+physicalStore,Zara,3422,41.12422,16.86944,BARI,Street,OPEN,Italy
+physicalStore,Zara,3671,41.083225,16.945671,TRIGGIANO,Mall,OPEN,Italy
+physicalStore,Zara,1394,40.9689756,16.92510283,CASAMASSIMA,Mall,OPEN,Italy
+physicalStore,Zara,3827,41.205257,16.552082,MOLFETTA,Mall,OPEN,Italy
+physicalStore,Zara,3484,49.487155,8.468506,MANNHEIM,Street,OPEN,Germany
+physicalStore,Zara,6997,49.4870138,8.4455905,LUDWIGSHAFEN,Mall,OPEN,Germany
+physicalStore,Zara,1393,34.872465,136.531756,SUZUKA,Mall,OPEN,Japan
+physicalStore,Zara,3482,49.00716473,8.40188054,KARLSRUHE,Mall,OPEN,Germany
+physicalStore,Zara,6609,48.892005,8.69832,PFORZHEIM,Street,OPEN,Germany
+physicalStore,Zara,6428,20.621975,-87.07666,PLAYA DEL CARMEN,Mall,OPEN,Mexico
+physicalStore,Zara,389,43.608477,3.884909,MONTPELLIER,Mall,OPEN,France
+physicalStore,Zara,12708,43.60494,3.920971,MONTPELLIER,Mall,OPEN,France
+physicalStore,Zara,9261,48.365559,10.907255,AUGSBURG,Mall,OPEN,Germany
+physicalStore,Zara,3297,54.95764,-1.6685555,NEWCASTLE,Mall,OPEN,United Kingdom
+physicalStore,Zara,9144,37.477322,15.009142,MISTERBIANCO,Mall,OPEN,Italy
+physicalStore,Zara,9294,20.0976467,-98.7690941,PACHUCA,Mall,OPEN,Mexico
+physicalStore,Zara,161,41.651226,-4.7269,VALLADOLID,Street,OPEN,Spain
+physicalStore,Zara,23,41.65009,-4.728888,VALLADOLID,Street,OPEN,Spain
+physicalStore,Zara,154,41.62365341,-4.7501277,VALLADOLID,Mall,OPEN,Spain
+physicalStore,Zara,9250,41.627953,-4.785576,ARROYO DE LA ENCOMIENDA,Mall,OPEN,Spain
+physicalStore,Zara,7063,-34.45188665,-58.72733692,TORTUGUITAS,Mall,OPEN,Argentina
+physicalStore,Zara,3794,53.12545357,23.168704169999998,BIAŁYSTOK,Mall,OPEN,Poland
+physicalStore,Zara,16099,42.2366576,-8.7223513,VIGO,Street,OPEN,Spain
+physicalStore,Zara,250,42.221493,-8.723741,VIGO,Mall,OPEN,Spain
+physicalStore,Zara,1158,42.429449,-8.642913,PONTEVEDRA,Street,OPEN,Spain
+physicalStore,Zara,22,42.43030277,-8.64111388,PONTEVEDRA,Street,OPEN,Spain
+physicalStore,Zara,3626,47.011543,15.408776,GRAZ,Mall,OPEN,Austria
+physicalStore,Zara,359,48.583874,7.746077,STRASBOURG,Mall,OPEN,France
+physicalStore,Zara,3819,48.57349,7.75588,STRASBOURG,Mall,OPEN,France
+physicalStore,Zara,3038,48.58788,7.742098,STRASBOURG,Mall,OPEN,France
+physicalStore,Zara,9133,46.771548,23.625761,CLUJ-NAPOCA,Mall,OPEN,Romania
+physicalStore,Zara,3786,46.750153,23.53353,CLUJ-NAPOCA,Mall,OPEN,Romania
+physicalStore,Zara,9225,50.25833447,19.01756266,KATOWICE,Mall,OPEN,Poland
+physicalStore,Zara,3531,50.27092515,19.004507609999997,KATOWICE,Mall,OPEN,Poland
+physicalStore,Zara,10401,19.267291,-99.605833,METEPEC,Mall,OPEN,Mexico
+physicalStore,Zara,3281,46.05247222,14.50323055,LJUBLJANA,Street,OPEN,Slovenia
+physicalStore,Zara,3489,46.06217,14.545559,LJUBLJANA,Mall,OPEN,Slovenia
+physicalStore,Zara,3860,49.8020211,18.227964399999998,OSTRAVA,Mall,OPEN,Czech Republic
+physicalStore,Zara,3483,50.080622,8.237965,WIESBADEN,Street,OPEN,Germany
+physicalStore,Zara,3600,50.00240361,8.274597,MAINZ,Street,OPEN,Germany
+physicalStore,Zara,3650,50.851038,5.691253,MAASTRICHT,Mall,OPEN,Netherlands
+physicalStore,Zara,1359,47.155743,27.58904,IASI,Mall,OPEN,Romania
+physicalStore,Zara,3944,47.155235,27.605381,IASI,Mall,OPEN,Romania
+physicalStore,Zara,9322,36.376005,140.359438,MITO,Mall,OPEN,Japan
+physicalStore,Zara,104,43.532696,-5.661896,GIJON,Mall,OPEN,Spain
+physicalStore,Zara,74,43.54005833,-5.66314833,GIJON,Street,OPEN,Spain
+physicalStore,Zara,187,43.39057,-5.800229,PAREDES LUGONES,Mall,OPEN,Spain
+physicalStore,Zara,19,43.365875,-5.853546,OVIEDO,Street,OPEN,Spain
+physicalStore,Zara,157,43.362872,-5.848417,OVIEDO,Street,OPEN,Spain
+physicalStore,Zara,346,51.05275,3.72213,GENT,Street,OPEN,Belgium
+physicalStore,Zara,6937,-26.992912,-48.64726,BALNEARIO CAMBORIU,Mall,OPEN,Brazil
+physicalStore,Zara,9240,44.19864787,28.609672330000002,CONSTANTA,Mall,OPEN,Romania
+physicalStore,Zara,3791,44.2037851,28.632269100000002,CONSTANTA,Mall,OPEN,Romania
+physicalStore,Zara,45,42.84484722,-2.670425,VITORIA-GASTEIZ,Street,OPEN,Spain
+physicalStore,Zara,229,42.861787,-2.668106,VITORIA-GASTEIZ,Mall,OPEN,Spain
+physicalStore,Zara,9873,45.44171186,10.996864,VERONA,Street,OPEN,Italy
+physicalStore,Zara,3768,45.405753759999996,10.97728381,VERONA,Mall,OPEN,Italy
+physicalStore,Zara,3246,60.45122,22.2635137,TURKU,Mall,OPEN,Finland
+physicalStore,Zara,3166,50.775238,6.088679,AACHEN,Mall,OPEN,Germany
+physicalStore,Zara,3418,52.262852,10.524323,BRAUNSCHWEIG,Street,OPEN,Germany
+physicalStore,Zara,12726,45.76642,21.22728,TIMISOARA,Mall,OPEN,Romania
+physicalStore,Zara,11022,45.725889,21.202717,TIMISOARA,Mall,OPEN,Romania
+physicalStore,Zara,9299,45.4341981,12.3364775,VENEZIA,Street,OPEN,Italy
+physicalStore,Zara,4942,45.459182,12.212505,MARGHERA,Mall,OPEN,Italy
+physicalStore,Zara,3884,45.5452673,12.3055706,MARCON,Mall,OPEN,Italy
+physicalStore,Zara,3209,31.791677,34.639175,ASHDOD,Mall,OPEN,Israel
+physicalStore,Zara,6460,43.366016,-8.405691,A CORUÑA,Street,OPEN,Spain
+physicalStore,Zara,2,43.36367222,-8.40810555,A CORUÑA,Street,OPEN,Spain
+physicalStore,Zara,52,43.35518,-8.40298,A CORUÑA,Mall,OPEN,Spain
+physicalStore,Zara,691,43.344271,-8.428307,A CORUÑA,Mall,OPEN,Spain
+physicalStore,Zara,9714,43.313251,-8.504555,A CORUÑA,Street,PROVISIONAL,Spain
+physicalStore,Zara,190,43.48955,-8.2026,NARON,Mall,OPEN,Spain
+physicalStore,Zara,10243,43.5334,-8.19464,NARON,Street,PROVISIONAL,Spain
+physicalStore,Zara,3645,47.68989,17.644215,GYOR,Mall,OPEN,Hungary
+physicalStore,Zara,14735,30.106531,31.628382,CAIRO,Mall,OPEN,Egypt
+physicalStore,Zara,3104,52.04108,-0.75673336,MILTON KEYNES,Mall,OPEN,United Kingdom
+physicalStore,Zara,3648,51.612454,-3.942952,SWANSEA,Street,OPEN,United Kingdom
+physicalStore,Zara,3320,51.44223924,5.47707131,EINDHOVEN,Mall,OPEN,Netherlands
+physicalStore,Zara,1267,46.253684,20.13924,SZEGED,Mall,OPEN,Hungary
+physicalStore,Zara,4847,45.672856,25.6165612,BRASOV,Mall,OPEN,Romania
+physicalStore,Zara,12317,45.65069,25.610092,BRASOV,Mall,OPEN,Romania
+physicalStore,Zara,6418,58.97142,5.73199,STAVANGER,Street,OPEN,Norway
+physicalStore,Zara,12729,50.638041,3.063662,LILLE,Street,OPEN,France
+physicalStore,Zara,343,50.637656,3.074144,LILLE,Mall,OPEN,France
+physicalStore,Zara,3368,50.61781,3.096515,VILLENEUVE D'ASCQ,Mall,OPEN,France
+physicalStore,Zara,3594,50.632546,2.968175,ENGLOS,Mall,OPEN,France
+physicalStore,Zara,12776,50.41314,2.97868,NOYELLES GODAULT,Mall,OPEN,France
+physicalStore,Zara,16172,18.238322500000002,42.5811246,ABHA,Mall,OPEN,Saudi Arabia
+physicalStore,Zara,3060,34.677326,33.045051,LEMESOS,Street,OPEN,Cyprus
+physicalStore,Zara,9129,34.652996,32.996933,LEMESOS,Mall,OPEN,Cyprus
+physicalStore,Zara,1360,44.311766,23.83162,CRAIOVA,Mall,OPEN,Romania
+physicalStore,Zara,16190,44.331684,23.773264,CRAIOVA,Mall,OPEN,Romania
+physicalStore,Zara,3977,53.216382,6.567697,GRONINGEN,Street,OPEN,Netherlands
+physicalStore,Zara,40,37.1730568,-3.6007856,GRANADA,Street,OPEN,Spain
+physicalStore,Zara,296,37.146313,-3.612747,ARMILLA,Mall,OPEN,Spain
+physicalStore,Zara,97,41.726467,1.824374,MANRESA,Street,OPEN,Spain
+physicalStore,Zara,10796,41.793063000000004,1.904486,SALLENT,Street,PROVISIONAL,Spain
+physicalStore,Zara,365,48.110148,-1.679501,RENNES,Street,OPEN,France
+physicalStore,Zara,1276,48.0836823,-1.6780347,RENNES,Mall,OPEN,France
+physicalStore,Zara,3030,19.2589713,-99.6210026,TOLUCA,Mall,OPEN,Mexico
+physicalStore,Zara,3413,51.88545833,-8.39804166,CORK,Mall,OPEN,Ireland
+physicalStore,Zara,12452,35.9035546,10.5426249,TUNIS,Mall,OPEN,Tunisia
+physicalStore,Zara,3657,38.1833296,15.55406591,MESSINA,Street,OPEN,Italy
+physicalStore,Zara,3642,38.10813,15.64359,REGGIO CALABRIA,Street,OPEN,Italy
+physicalStore,Zara,3464,53.869193,10.687165,LÜBECK,Street,OPEN,Germany
+physicalStore,Zara,265,37.626027,-0.949674,CARTAGENA,Mall,OPEN,Spain
+physicalStore,Zara,12682,32.44071,34.898182,HADERA,Mall,OPEN,Israel
+physicalStore,Zara,293,36.692616,-6.155519,JEREZ DE LA FRONTERA,Mall,OPEN,Spain
+physicalStore,Zara,13897,36.47182,-6.2076974,SAN FERNANDO,Mall,OPEN,Spain
+physicalStore,Zara,9023,50.807037,19.130856,CZĘSTOCHOWA,Mall,OPEN,Poland
+physicalStore,Zara,3459,52.62601666,1.28951944,NORWICH,Mall,OPEN,United Kingdom
+physicalStore,Zara,3890,35.338606,25.134809,HERAKLIO,Street,OPEN,Greece
+physicalStore,Zara,9016,42.5130034,27.4535575,BURGAS,Mall,OPEN,Bulgaria
+physicalStore,Zara,3357,48.24375,14.234975,PASCHING,Mall,OPEN,Austria
+physicalStore,Zara,3309,54.08876,12.129979,ROSTOCK,Mall,OPEN,Germany
+physicalStore,Zara,3062,31.24378,34.794987,BEERSHEBA,Mall,OPEN,Israel
+physicalStore,Zara,6470,31.250956,34.772522,BEERSHEBA,Mall,OPEN,Israel
+physicalStore,Zara,3504,45.40777389,11.87725169,PADOVA,Street,OPEN,Italy
+physicalStore,Zara,11603,45.526981,11.596916,VICENZA,Mall,OPEN,Italy
+physicalStore,Zara,12079,42.814237,-1.642834,PAMPLONA-IRUÑA,Street,OPEN,Spain
+physicalStore,Zara,207,42.78424,-1.632945,CORDOVILLA,Mall,OPEN,Spain
+physicalStore,Zara,3548,51.314949,9.496565,KASSEL,Street,OPEN,Germany
+physicalStore,Zara,3188,46.203926,6.148071,GENEVE,Street,OPEN,Switzerland
+physicalStore,Zara,3189,46.17918333,6.128775,GENEVE,Mall,OPEN,Switzerland
+physicalStore,Zara,12777,46.21843,6.1125887,GENEVE,Mall,OPEN,Switzerland
+physicalStore,Zara,11793,50.40793,4.4418,CHARLEROI,Mall,OPEN,Belgium
+physicalStore,Zara,9227,51.4056992,21.1558204,RADOM,Mall,OPEN,Poland
+physicalStore,Zara,3435,57.14284,-2.09685,ABERDEEN,Mall,OPEN,United Kingdom
+physicalStore,Zara,12478,36.86032,-2.439158,ALMERIA,Mall,OPEN,Spain
+physicalStore,Zara,212,36.77436828,-2.61319994,ROQUETAS DE MAR,Mall,OPEN,Spain
+physicalStore,Zara,3796,39.29952,16.25348,COSENZA,Street,OPEN,Italy
+physicalStore,Zara,12890,42.63308,21.152328,PRISTINA,Mall,OPEN,Kosovo
+physicalStore,Zara,16143,42.56459,21.13323,PRISTINA,Mall,OPEN,Kosovo
+physicalStore,Zara,1295,45.650502,13.772411,TRIESTE,Street,OPEN,Italy
+physicalStore,Zara,1268,53.015812679999996,18.561004840000003,TORUŃ,Mall,OPEN,Poland
+physicalStore,Zara,9107,44.8025897,10.32869425,PARMA,Street,OPEN,Italy
+physicalStore,Zara,3728,44.71476,10.648435,REGGIO EMILIA,Mall,OPEN,Italy
+physicalStore,Zara,295,40.494865,-3.359638,ALCALA DE HENARES,Mall,OPEN,Spain
+physicalStore,Zara,9715,40.53528,-3.324523,MECO,Street,PROVISIONAL,Spain
+physicalStore,Zara,10714,40.61493,-3.21612,CABANILLAS DEL CAMPO,Street,PROVISIONAL,Spain
+physicalStore,Zara,15467,40.68011,-3.17921,MARCHAMALO,Street,PROVISIONAL,Spain
+physicalStore,Zara,6386,45.532769,10.165755,RONCADELLE,Mall,OPEN,Italy
+physicalStore,Zara,3664,45.43058,10.51353,LONATO,Mall,OPEN,Italy
+physicalStore,Zara,3769,50.02703,22.013222,RZESZÓW,Mall,OPEN,Poland
+physicalStore,Zara,12671,50.64082,5.57095,LIEGE,Street,OPEN,Belgium
+physicalStore,Zara,11934,50.63251,5.58058,LIEGE,Mall,OPEN,Belgium
+physicalStore,Zara,2075,34.1342409,-118.0517006,ARCADIA,Mall,OPEN,United States
+physicalStore,Zara,6659,43.31796264,-1.98340797,DONOSTIA-SAN SEBASTIAN,Mall,OPEN,Spain
+physicalStore,Zara,47,43.318963,-1.981672,DONOSTIA-SAN SEBASTIAN,Street,OPEN,Spain
+physicalStore,Zara,145,43.308167,-1.946146,DONOSTIA-SAN SEBASTIAN,Mall,OPEN,Spain
+physicalStore,Zara,197,43.340944,-1.792241,IRUN,Mall,OPEN,Spain
+physicalStore,Zara,3608,40.471318,17.239169,TARANTO,Street,OPEN,Italy
+physicalStore,Zara,3405,50.71985555,-1.88453888,BOURNEMOUTH,Street,OPEN,United Kingdom
+physicalStore,Zara,11914,35.622109,138.527807,NAKAKOMA-DISTRICT,Mall,OPEN,Japan
+physicalStore,Zara,9060,50.87955437,20.64694475,KIELCE,Mall,OPEN,Poland
+physicalStore,Zara,1314,38.5371,-8.87712,SETUBAL,Mall,OPEN,Portugal
+physicalStore,Zara,9236,44.64578171,10.92812754,MODENA,Street,OPEN,Italy
+physicalStore,Zara,1233,47.03496932,21.9485378,ORADEA,Mall,OPEN,Romania
+physicalStore,Zara,7917,55.383219,10.426284,ODENSE,Mall,OPEN,Denmark
+physicalStore,Zara,3571,49.2345,6.9945,SAARBRÜCKEN,Street,OPEN,Germany
+physicalStore,Zara,1426,44.96531,25.972574,PLOIESTI,Mall,OPEN,Romania
+physicalStore,Zara,3847,43.120085,5.935117,TOULON,Mall,OPEN,France
+physicalStore,Zara,16191,43.13732,6.006751,LA VALETTE DU VAR,Mall,OPEN,France
+physicalStore,Zara,370,49.253924,4.030124,REIMS,Street,OPEN,France
+physicalStore,Zara,1465,51.845494,5.86351,NIJMEGEN,Street,OPEN,Netherlands
+physicalStore,Zara,3187,51.982084,5.909332,ARNHEM,Street,OPEN,Netherlands
+physicalStore,Zara,286,39.97948,-0.06336,CASTELLON DE LA PLANA,Mall,OPEN,Spain
+physicalStore,Zara,21,42.341094,-3.698664,BURGOS,Street,OPEN,Spain
+physicalStore,Zara,11829,33.1778892,-117.3310075,CARLSBAD,Mall,OPEN,United States
+physicalStore,Zara,3032,38.248292,21.736944,PATRAS,Street,OPEN,Greece
+physicalStore,Zara,3275,47.55630833,7.58962777,BASEL,Street,OPEN,Switzerland
+physicalStore,Zara,85,38.993736,-1.855999,ALBACETE,Street,OPEN,Spain
+physicalStore,Zara,3878,42.43775,19.23555,PODGORICA,Mall,OPEN,Monténégro
+physicalStore,Zara,33,43.460423,-3.808206,SANTANDER,Street,OPEN,Spain
+physicalStore,Zara,155,43.4262506,-3.8372102,MALIAÑO,Mall,OPEN,Spain
+physicalStore,Zara,396,45.43587,4.38791,SAINT ETIENNE,Street,OPEN,France
+physicalStore,Zara,12159,35.637857,-0.590273,ORÁN,Mall,OPEN,Algeria
+physicalStore,Zara,6420,53.75334757,20.48393933,OLSZTYN,Mall,OPEN,Poland
+physicalStore,Zara,16380,41.643826,41.619774,BATUMI,Mall,OPEN,Georgia
+physicalStore,Zara,9064,49.82601883,19.04808641,BIELSKO-BIAŁA,Mall,OPEN,Poland
+physicalStore,Zara,3375,52.274105,8.047614,OSNABRÜCK,Street,OPEN,Germany
+physicalStore,Zara,10814,59.85914,17.63749,UPPSALA,Street,OPEN,Sweden
+physicalStore,Zara,681,49.49006,0.13023,LE HAVRE,Mall,OPEN,France
+physicalStore,Zara,12200,29.078953,48.13977,FAHAHEEL,Mall,OPEN,Kuwait
+physicalStore,Zara,3681,43.088078,12.470024,PERUGIA,Mall,OPEN,Italy
+physicalStore,Zara,3907,43.51025833,16.43761388,SPLIT,Street,OPEN,Croatia
+physicalStore,Zara,1272,43.518524,16.483786000000002,SPLIT,Mall,OPEN,Croatia
+physicalStore,Zara,9146,52.218689,6.89769,ENSCHEDE,Street,OPEN,Netherlands
+physicalStore,Zara,3097,47.35792,5.05146,DIJON,Mall,OPEN,France
+physicalStore,Zara,3557,55.693394,21.154903,KLAIPEDA,Mall,OPEN,Lithuania
+physicalStore,Zara,3276,45.157655,5.732095,GRENOBLE,Mall,OPEN,France
+physicalStore,Zara,327,45.189579,5.723134,GRENOBLE,Street,OPEN,France
+physicalStore,Zara,14812,49.010963000000004,12.100813,REGENSBURG,Mall,OPEN,Germany
+physicalStore,Zara,363,47.47217,-0.551121,ANGERS,Street,OPEN,France
+physicalStore,Zara,143,36.52188,-4.876921,MARBELLA,Mall,OPEN,Spain
+physicalStore,Zara,170,36.490686,-4.95157,MARBELLA,Mall,OPEN,Spain
+physicalStore,Zara,3256,44.418975,12.197308,RAVENNA,Street,OPEN,Italy
+physicalStore,Zara,3487,47.81623,13.008738000000001,SALZBURG,Mall,OPEN,Austria
+physicalStore,Zara,3758,43.54929,10.30506,LIVORNO,Street,OPEN,Italy
+physicalStore,Zara,3359,43.71314,10.40016,PISA,Street,OPEN,Italy
+physicalStore,Zara,12318,51.750604,-1.260779,OXFORD,Mall,OPEN,United Kingdom
+physicalStore,Zara,10286,29.542576,-95.148682,FRIENDSWOOD,Mall,OPEN,United States
+physicalStore,Zara,17,42.46302777,-2.44698333,LOGROÑO,Street,OPEN,Spain
+physicalStore,Zara,228,42.462612,-2.420281,LOGROÑO,Mall,OPEN,Spain
+physicalStore,Zara,9173,38.88385,-7.021894,BADAJOZ,Mall,OPEN,Spain
+physicalStore,Zara,11851,18.558329999999998,-68.38294,PUNTA CANA,Mall,OPEN,Dominican Republic
+physicalStore,Zara,3554,44.039715,12.588079,RIMINI,Mall,OPEN,Italy
+physicalStore,Zara,11732,44.15941597,12.43106582,SAVIGNANO SUL RUBICONE,Mall,OPEN,Italy
+physicalStore,Zara,391,39.638201,22.417506,LARISSA,Street,OPEN,Greece
+physicalStore,Zara,3308,39.216019,9.115316,CAGLIARI,Street,OPEN,Italy
+physicalStore,Zara,357,43.838802,4.358284,NIMES,Street,OPEN,France
+physicalStore,Zara,12489,45.774796,3.08343,CLERMONT FERRAND,Mall,OPEN,France
+physicalStore,Zara,11731,41.41717629,15.64973427,FOGGIA,Mall,OPEN,Italy
+physicalStore,Zara,375,48.001835,0.197501,LE MANS,Street,OPEN,France
+physicalStore,Zara,102,40.96733,-5.661778,SALAMANCA,Street,OPEN,Spain
+physicalStore,Zara,272,40.966081,-5.662949,SALAMANCA,Street,OPEN,Spain
+physicalStore,Zara,182,40.95013,-5.648473,SANTA MARTA DE TORMES,Mall,OPEN,Spain
+physicalStore,Zara,3431,40.20457,-8.40816,COIMBRA,Mall,OPEN,Portugal
+physicalStore,Zara,3433,40.21138,-8.44345,COIMBRA,Mall,OPEN,Portugal
+physicalStore,Zara,129,41.61320555,0.62439166,LLEIDA,Street,OPEN,Spain
+physicalStore,Zara,6490,37.27183,-6.919799,HUELVA,Mall,OPEN,Spain
+physicalStore,Zara,3377,53.95785833,-1.08228333,YORK,Street,OPEN,United Kingdom
+physicalStore,Zara,3474,46.52132777,6.63342222,LAUSANNE,Street,OPEN,Switzerland
+physicalStore,Zara,9263,46.431054,6.91083,MONTREUX,Street,OPEN,Switzerland
+physicalStore,Zara,16430,44.846137999999996,24.8916,PITESTI,Mall,OPEN,Romania
+physicalStore,Zara,9244,48.77344512,11.3904829,INGOLSTADT,Mall,OPEN,Germany
+physicalStore,Zara,3176,64.10095,-21.88395,KOPAVOGUR,Mall,OPEN,Iceland
+physicalStore,Zara,368,48.391647,-4.483662,BREST,Street,OPEN,France
+physicalStore,Zara,142,41.11709213,1.23941695,TARRAGONA,Mall,OPEN,Spain
+physicalStore,Zara,3261,47.392638,0.688602,TOURS,Mall,OPEN,France
+physicalStore,Zara,3958,47.366244,0.678402,TOURS,Mall,OPEN,France
+physicalStore,Zara,1339,39.10105895,-9.25425434,TORRES VEDRAS,Mall,OPEN,Portugal
+physicalStore,Zara,986,46.580206000000004,26.91453,BACAU,Mall,OPEN,Romania
+physicalStore,Zara,3511,46.96362,7.4656196,BERN,Mall,OPEN,Switzerland
+physicalStore,Zara,12316,45.7970503,24.1627178,SIBIU,Mall,OPEN,Romania
+physicalStore,Zara,11856,40.2542,-74.30085,FREEHOLD,Mall,OPEN,United States
+physicalStore,Zara,9126,49.892087000000004,2.300643,AMIENS,Street,OPEN,France
+physicalStore,Zara,11941,49.582523,6.125872,LUXEMBOURG,Mall,OPEN,Luxembourg
+physicalStore,Zara,3215,49.63283888,6.16968333,LUXEMBOURG,Mall,OPEN,Luxembourg
+physicalStore,Zara,1246,49.623194,6.050441,BERTRANGE,Mall,OPEN,Luxembourg
+physicalStore,Zara,369,45.904485,6.124211,ANNECY,Mall,OPEN,France
+physicalStore,Zara,3477,47.26281111,11.430275,INNSBRUCK,Mall,OPEN,Austria
+physicalStore,Zara,2039,52.512783,6.097156,ZWOLLE,Street,OPEN,Netherlands
+physicalStore,Zara,1239,45.829957,1.258917,LIMOGES,Street,OPEN,France
+physicalStore,Zara,12158,44.816213,11.604648000000001,FERRARA,Mall,OPEN,Italy
+physicalStore,Zara,10744,41.696227,2.727828,TORDERA,Street,PROVISIONAL,Spain
+physicalStore,Zara,10765,41.692937,2.732556,TORDERA,Street,PROVISIONAL,Spain
+physicalStore,Zara,10747,41.693831,2.73185,TORDERA,Street,PROVISIONAL,Spain
+physicalStore,Zara,10774,41.695875,2.729925,TORDERA,Street,PROVISIONAL,Spain
+physicalStore,Zara,10756,41.692841,2.733903,TORDERA,Street,PROVISIONAL,Spain
+physicalStore,Zara,3902,48.394325,10.005127,NEU ULM,Mall,OPEN,Germany
+physicalStore,Zara,1459,49.795066,9.93222,WÜRZBURG,Street,OPEN,Germany
+physicalStore,Zara,3792,50.67054548,17.9255545,OPOLE,Mall,OPEN,Poland
+physicalStore,Zara,3801,40.63612,14.908439999999999,PONTECAGNANO,Mall,OPEN,Italy
+physicalStore,Zara,3822,40.91416,14.78971,AVELLINO,Street,OPEN,Italy
+physicalStore,Zara,9112,39.73218,-8.82554,LEIRIA,Mall,OPEN,Portugal
+physicalStore,Zara,4839,58.144851700000004,7.9947991,KRISTIANSAND,Mall,OPEN,Norway
+physicalStore,Zara,3736,50.7249285,-3.5272115,EXETER,Mall,OPEN,United Kingdom
+physicalStore,Zara,3478,52.20483055,0.12228333,CAMBRIDGE,Street,OPEN,United Kingdom
+physicalStore,Zara,12479,36.135152,-5.46255,ALGECIRAS,Mall,OPEN,Spain
+physicalStore,Zara,238,35.887872,-5.311944,CEUTA,Street,OPEN,Spain
+physicalStore,Zara,12209,42.597409999999996,-5.5745,LEON,Street,OPEN,Spain
+physicalStore,Zara,9716,42.538384,-5.58642,SANTOVENIA DE LA VALDONCINA,Street,PROVISIONAL,Spain
+physicalStore,Zara,9056,40.72736,8.56115,SASSARI,Street,OPEN,Italy
+physicalStore,Zara,13725,49.106685999999996,6.18114,METZ,Mall,OPEN,France
+physicalStore,Zara,3384,49.357082,6.168446,THIONVILLE,Mall,OPEN,France
+physicalStore,Zara,3316,41.69429,-8.83322,VIANA DO CASTELO,Mall,OPEN,Portugal
+physicalStore,Zara,3361,45.66364339,9.69506732,ORIO AL SERIO,Mall,OPEN,Italy
+physicalStore,Zara,3503,42.34345,14.126379,CHIETI,Mall,OPEN,Italy
+physicalStore,Zara,14824,51.207300000000004,3.22433,BRUGGE,Street,OPEN,Belgium
+physicalStore,Zara,3578,51.355007,3.301902,KNOKKE,Street,OPEN,Belgium
+physicalStore,Zara,9041,51.22879722,2.92031666,OOSTENDE,Street,OPEN,Belgium
+physicalStore,Zara,3242,47.90705,1.90552,ORLEANS,Mall,OPEN,France
+physicalStore,Zara,3677,37.0619259,15.293501469999999,SIRACUSA,Street,OPEN,Italy
+physicalStore,Zara,3513,50.358584,7.591079,KOBLENZ,Mall,OPEN,Germany
+physicalStore,Zara,1487,17.993979,-66.61156,PONCE,Mall,OPEN,Puerto Rico
+physicalStore,Zara,9202,52.53787113,19.75199552,PŁOCK,Mall,OPEN,Poland
+physicalStore,Zara,3010,42.046275,-88.037452,SCHAUMBURG,Mall,OPEN,United States
+physicalStore,Zara,3094,49.442355,1.095064,ROUEN,Street,OPEN,France
+physicalStore,Zara,1380,56.09234,12.759409999999999,HELSINGBORG,Mall,OPEN,Sweden
+physicalStore,Zara,1481,43.348354,17.805727,MOSTAR,Mall,OPEN,Bosnia and Herzegovina
+physicalStore,Zara,3575,49.756207,6.639175,TRIER,Mall,OPEN,Germany
+physicalStore,Zara,12274,37.79078,-3.775833,JAEN,Mall,OPEN,Spain
+physicalStore,Zara,3066,48.855637,2.782249,SERRIS,Mall,OPEN,France
+physicalStore,Zara,3204,48.615812410000004,2.54809447,LIEUSAINT,Mall,OPEN,France
+physicalStore,Zara,11755,44.53205839,18.6516886,TUZLA,Mall,OPEN,Bosnia and Herzegovina
+physicalStore,Zara,3014,50.46511388,4.86510555,NAMUR,Street,OPEN,Belgium
+physicalStore,Zara,371,49.18267,-0.36385,CAEN,Street,OPEN,France
+physicalStore,Zara,12588,45.326491,14.442579,RIJEKA,Mall,OPEN,Croatia
+physicalStore,Zara,366,47.748718,7.338639,MULHOUSE,Street,OPEN,France
+physicalStore,Zara,9170,46.499847,11.350808,BOLZANO,Street,OPEN,Italy
+physicalStore,Zara,9169,46.671211,11.164703,MERANO,Street,OPEN,Italy
+physicalStore,Zara,80,41.979069,2.821003,GIRONA,Street,OPEN,Spain
+physicalStore,Zara,258,41.96614074,2.78255009,SALT,Mall,OPEN,Spain
+physicalStore,Zara,12,42.340152,-7.864639,OURENSE,Street,OPEN,Spain
+physicalStore,Zara,153,42.345066,-7.865315,OURENSE,Mall,OPEN,Spain
+physicalStore,Zara,3101,48.69099,6.18348,NANCY,Street,OPEN,France
+physicalStore,Zara,3259,45.051203,9.695958,PIACENZA,Street,OPEN,Italy
+physicalStore,Zara,3573,51.236576,-0.576363,GUILDFORD,Mall,OPEN,United Kingdom
+physicalStore,Zara,3550,50.875487,8.017294,SIEGEN,Mall,OPEN,Germany
+physicalStore,Zara,3465,46.626488,14.308811,KLAGENFURT,Mall,OPEN,Austria
+physicalStore,Zara,9211,45.446032,8.621618,NOVARA,Street,OPEN,Italy
+physicalStore,Zara,3401,40.66179,-7.91423,VISEU,Mall,OPEN,Portugal
+physicalStore,Zara,53,42.87611111,-8.54474722,SANTIAGO DE COMPOSTELA,Street,OPEN,Spain
+physicalStore,Zara,1415,42.889748,-8.527606,SANTIAGO DE COMPOSTELA,Mall,OPEN,Spain
+physicalStore,Zara,3352,43.618004,13.512712,ANCONA,Street,OPEN,Italy
+physicalStore,Zara,262,43.037729999999996,-7.56888,LUGO,Mall,OPEN,Spain
+physicalStore,Zara,3729,46.0623148,13.23356282,UDINE,Street,OPEN,Italy
+physicalStore,Zara,3343,46.55472222,15.65348611,MARIBOR,Mall,OPEN,Slovenia
+physicalStore,Zara,9061,45.554899,18.637147,OSIJEK,Mall,OPEN,Croatia
+physicalStore,Zara,109,39.46859741,-6.3890171,CACERES,Mall,OPEN,Spain
+physicalStore,Zara,3811,43.461728,11.87858218,AREZZO,Street,OPEN,Italy
+physicalStore,Zara,3295,50.45655,3.93432,MONS,Mall,OPEN,Belgium
+physicalStore,Zara,12922,40.353647,18.177647999999998,LECCE,Street,OPEN,Italy
+physicalStore,Zara,3496,44.104387,9.81937606,LA SPEZIA,Street,OPEN,Italy
+physicalStore,Zara,3694,44.91281543,8.6130779,ALESSANDRIA,Street,OPEN,Italy
+physicalStore,Zara,12487,43.98249,4.88173,LE PONTET,Mall,OPEN,France
+physicalStore,Zara,3144,46.578163,0.350931,POITIERS,Mall,OPEN,France
+physicalStore,Zara,256,37.98992,-0.68707,TORREVIEJA,Mall,OPEN,Spain
+physicalStore,Zara,9275,37.93076,-0.73533,ORIHUELA,Mall,OPEN,Spain
+physicalStore,Zara,3720,51.032358,2.375331,DUNKERQUE,Street,OPEN,France
+physicalStore,Zara,281,35.29415556,-2.940925,MELILLA,Street,OPEN,Spain
+physicalStore,Zara,241,39.86313,-3.97497,TOLEDO,Mall,OPEN,Spain
+physicalStore,Zara,3314,47.657406,9.176631,KONSTANZ,Mall,OPEN,Germany
+physicalStore,Zara,3882,39.36165833,22.94746944,VOLOS,Street,OPEN,Greece
+physicalStore,Zara,14509,34.925056,33.60443,LARNAKA,Mall,OPEN,Cyprus
+physicalStore,Zara,9006,32.695787,35.300617,NAZARETH,Mall,OPEN,Israel
+physicalStore,Zara,3988,45.817249000000004,8.829016,VARESE,Street,OPEN,Italy
+physicalStore,Zara,3346,51.27703333,1.08092777,CANTERBURY,Mall,OPEN,United Kingdom
+physicalStore,Zara,13953,40.619227,17.901868999999998,BRINDISI,Mall,OPEN,Italy
+physicalStore,Zara,11,42.594966,-8.766795,VILAGARCIA DE AROUSA,Street,OPEN,Spain
+physicalStore,Zara,9665,47.074257,8.287094,EMMEN,Mall,OPEN,Switzerland
+physicalStore,Zara,11641,42.788036,11.114132,GROSSETO,Mall,OPEN,Italy
+physicalStore,Zara,6497,43.336057,3.225045,BEZIERS,Mall,OPEN,France
+physicalStore,Zara,1277,46.159183,-1.15174846,LA ROCHELLE,Street,OPEN,France
+physicalStore,Zara,13617,46.159168,-1.151989,LA ROCHELLE,Street,OPEN,France
+physicalStore,Zara,3043,40.640943,-8.651906,AVEIRO,Mall,OPEN,Portugal
+physicalStore,Zara,280,38.969286,-0.169516,GANDIA,Mall,OPEN,Spain
+physicalStore,Zara,294,38.818005,0.02363,ONDARA,Mall,OPEN,Spain
+physicalStore,Zara,261,39.12704,-0.446126,CARCAIXENT,Mall,OPEN,Spain
+physicalStore,Zara,3821,50.826965,3.269506,KORTRIJK,Mall,OPEN,Belgium
+physicalStore,Zara,3168,50.93026666,5.33755833,HASSELT,Street,OPEN,Belgium
+physicalStore,Zara,3661,50.96547222,5.49493611,GENK,Mall,OPEN,Belgium
+physicalStore,Zara,3888,7.891226,98.367805,PHUKET,Mall,OPEN,Thailand
+physicalStore,Zara,3122,43.296404,-0.367763,PAU,Street,OPEN,France
+physicalStore,Zara,3787,47.40775,9.30416666,SANKT GALLEN,Mall,OPEN,Switzerland
+physicalStore,Zara,176,38.98495,-3.92761,CIUDAD REAL,Street,OPEN,Spain
+physicalStore,Zara,12232,41.956102,8.801357,SARROLA-CARCOPINO,Mall,OPEN,France
+physicalStore,Zara,3656,36.9105339,14.7235116,RAGUSA,Mall,OPEN,Italy
+physicalStore,Zara,93,38.536688,-0.128055,BENIDORM,Street,OPEN,Spain
+physicalStore,Zara,185,38.53903579,-0.17545899,FINESTRAT,Mall,OPEN,Spain
+physicalStore,Zara,3843,47.275801,-2.207791,SAINT NAZAIRE,Mall,OPEN,France
+physicalStore,Zara,7999,38.99048,-76.54359,ANNAPOLIS,Mall,OPEN,United States
+physicalStore,Zara,9059,44.11571884,15.2709846,ZADAR,Mall,OPEN,Croatia
+physicalStore,Zara,9022,45.185934,9.152994,PAVIA,Street,OPEN,Italy
+physicalStore,Zara,3457,45.0000878,9.07215414,MONTEBELLO DELLA BATTAGLIA,Mall,OPEN,Italy
+physicalStore,Zara,3331,37.09805,-7.99742,LOULE,Mall,OPEN,Portugal
+physicalStore,Zara,3136,37.02898,-7.94554,FARO,Mall,OPEN,Portugal
+physicalStore,Zara,3512,47.720662,10.315905,KEMPTEN,Mall,OPEN,Germany
+physicalStore,Zara,1486,47.087619000000004,2.39485,BOURGES,Mall,OPEN,France
+physicalStore,Zara,1385,34.764717,32.412962,PAFOS,Mall,OPEN,Cyprus
+physicalStore,Zara,1498,45.973061,8.927207,GRANCIA,Mall,OPEN,Switzerland
+physicalStore,Zara,3820,40.90988,9.522883,OLBIA,Mall,OPEN,Italy
+physicalStore,Zara,3497,44.391452,7.54998,CUNEO,Street,OPEN,Italy
+physicalStore,Zara,3125,37.127629,-8.3625782,ALBUFEIRA,Mall,OPEN,Portugal
+physicalStore,Zara,1430,46.991328,6.929423,NEUCHATEL,Street,OPEN,Switzerland
+physicalStore,Zara,3356,41.125478,25.394195,KOMOTINI,Mall,OPEN,Greece
+physicalStore,Zara,3891,35.51327777,24.015483330000002,CHANIA,Street,OPEN,Greece
+physicalStore,Zara,3690,38.899926,22.434661,LAMIA,Street,OPEN,Greece
+physicalStore,Zara,4943,47.819478000000004,16.217926,WIENER NEUSTADT,Mall,OPEN,Austria
+physicalStore,Zara,9086,41.15028,24.148220000000002,DRAMA,Street,OPEN,Greece
+physicalStore,Zara,6286,45.791557,12.816861,PORTOGRUARO,Mall,OPEN,Italy
+physicalStore,Zara,269,38.909945,1.433622,EIVISSA,Street,OPEN,Spain
+physicalStore,Zara,11543,43.48846,-1.49718,ANGLET,Mall,OPEN,France
+physicalStore,Zara,3683,45.648549,0.162525,ANGOULEME,Mall,OPEN,France
+physicalStore,Zara,362,50.93422,1.80871,COQUELLES,Mall,OPEN,France
